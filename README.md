@@ -106,11 +106,13 @@ Another Awesome book for learning Web Development in Golang. Free to [read onlin
 
 This book will take you through the most important aspects of designing, building, and deploying a web service utilizing idiomatic REST practices with a focus on speed, security, and flexibility. You will begin by building your first API in Go using the HTTP package. You will look at designing and building your application including popular design structures like Model-View-Controller. You will also understand methods for deploying code to staging and development. Finally, you will see how the security features in Go can be used for protection against SQL injection, and sensitive data compromise.
 
-###[Level Up Your Web Apps With Go](http://shop.oreilly.com/product/9780992461294.do)
+###[Level Up Your Web Apps With Go](https://learnable.com/books/level-up-your-web-apps-with-go)
 
 <img src="http://akamaicovers.oreilly.com/images/9780992461294/lrg.jpg" width="120px"/>
 
-This book gives you all you need to use Go in your web applications. You'll learn the basic concepts - language structures, the standard library, and Go tools - then tackle...
+This book gives you all you need to use Go in your web applications. You’ll learn the basic concepts — language structures, the standard library, and Go tools — then tackle more advanced features like concurrency concepts, testing methodologies, and package structures.
+
+At each step, you’ll get advice for better coding in Go. You’ll see how to structure projects, how to use concurrency effectively, and best practices for testing—as well as many other hints and tips gleaned from real world experience of developing web applications with Go.
 
 ###[Go Web Programming](http://www.manning.com/chang/)
 
