@@ -1,10 +1,10 @@
 GoLang Books
 ====
-* Books
- * Starter Books
- * Advance Books
- * Web Development
-* Resources
+* [Books](#books)
+ * [Starter Books](#starter-books)
+ * [Advanced Books](#advanced-books)
+ * [Web Development](#web-development)
+* [Resources](#resources)
 
 
 **Books**
@@ -66,7 +66,7 @@ Dive headfirst into solving actual enterprise problems and start cutting code fr
 
 
 
-**Advance Books**
+**Advanced Books**
 ---
 
 ###[Test-driven development with Go ](https://leanpub.com/golang-tdd) *Free*
@@ -121,5 +121,8 @@ This book gives you all you need to use Go in your web applications. You'll lear
 <img src="http://www.manning.com/chang/chang_cover150.jpg" alt="Go Web Programming" width="120px"/>
 
 Go Web Programming teaches you how to build web applications in Go using modern design principles. You'll work through numerous examples that introduce core concepts like processing requests and sending responses, template engines, and data persistence. You'll also dive into more advanced topics, such as concurrency, web application testing and deployment both to barebones servers and PaaS providers.
+
+Resources
+====
 
 
