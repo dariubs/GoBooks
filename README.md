@@ -121,6 +121,10 @@ Go Web Programming teaches you how to build web applications in Go using modern 
 Resources
 ====
 
+###[Learn GO Syntax in one video](http://www.youtube.com/watch?v=CF9S4QZuV30)
+
+[![GO syntax in one video](http://img.youtube.com/vi/CF9S4QZuV30/0.jpg)](http://www.youtube.com/watch?v=CF9S4QZuV30)
+
 Contributing
 ====
 Your contributions are always welcome, just follow [the rules](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md)!
