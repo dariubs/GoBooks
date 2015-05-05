@@ -32,6 +32,12 @@ This companion book contains material initially written specifically for this ev
 
 ![Go Bootcamp](https://softcover.s3.amazonaws.com/38/GoBootcamp/images/cover-web.png)
 
+###[Go in Action](http://www.manning.com/ketelsen/)
+
+Go in Action introduces the Go language, guiding you from inquisitive developer to Go guru. The book begins by introducing the unique features and concepts of Go. (We assume you're up to speed with another programming language already, so don't expect to spend a lot of time rehearsing stuff you already know.) Then, you'll get hands-on experience writing real-world applications including web sites and network servers, as well as techniques to manipulate and convert data at speeds that will make your friends jealous. In the final chapters, you'll go in-depth with the language and see the tricks and secrets that the Go masters are using to make their applications perform. For example, you'll learn to use Go's powerful reflection libraries and work with real-world examples of integration with C code.
+
+![Go in Action](http://www.manning.com/ketelsen/Ketelsen_cover150.jpg)
+
 ###[Go: Up and Running](http://shop.oreilly.com/product/0636920030638.do?sortby=bestSellers)
 
 Get started with Go, the C-based Google language that emphasizes concurrency and programmer convenience for developing modern applications. This field guide takes you on an example-driven tour of the language and shows you how to be productive with Go right away.
@@ -46,6 +52,9 @@ Dive headfirst into solving actual enterprise problems and start cutting code fr
 
 ![Go Programming Blueprints](http://akamaicovers.oreilly.com/images/9781783988020/lrg.jpg)
 
+
+
+
 **Advance Books**
 ---
 
@@ -59,6 +68,12 @@ This book will take you through the history of concurrency, how Go utilizes it, 
 
 ![Mastering Concurrency in Go](http://akamaicovers.oreilly.com/images/9781783983483/lrg.jpg)
 
+
+###[Go in Practice]()
+
+Go in Practice guides you through dozens of real-world techniques in key areas like package management, microservice communication, and more. Following a cookbook-style Problem/Solution/Discussion format, this practical handbook builds on the foundational concepts of the Go language and introduces specific strategies you can use in your day-to-day applications. You'll learn techniques for building web services, using Go in the cloud, testing and debugging, routing, network applications, and much more.
+
+![Go in Practice](http://www.manning.com/butcher/butcher_cover150.jpg)
 
 
 **Web Development**
@@ -80,3 +95,10 @@ This book will take you through the most important aspects of designing, buildin
 This book gives you all you need to use Go in your web applications. You'll learn the basic concepts - language structures, the standard library, and Go tools - then tackle...
 
 ![Level Up Your Web Apps With Go](http://akamaicovers.oreilly.com/images/9780992461294/lrg.jpg)
+
+
+###[Go Web Programming](http://www.manning.com/chang/)
+
+Go Web Programming teaches you how to build web applications in Go using modern design principles. You'll work through numerous examples that introduce core concepts like processing requests and sending responses, template engines, and data persistence. You'll also dive into more advanced topics, such as concurrency, web application testing and deployment both to barebones servers and PaaS providers.
+
+![Go Web Programming](http://www.manning.com/chang/chang_cover150.jpg)
