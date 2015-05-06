@@ -56,6 +56,12 @@ If you’re familiar with languages such as Java, C, Ruby, or Python, you’ll l
 
 Dive headfirst into solving actual enterprise problems and start cutting code from the word go. You will build complete applications around a variety of subjects using a range of different technologies and techniques, all of which are directly applicable to today's tech start-up world.
 
+###[Programming in Go: Creating Applications for the 21st Century](http://www.informit.com/store/programming-in-go-creating-applications-for-the-21st-9780321774637)
+
+<img src="http://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
+
+ Programming in Go brings together all the knowledge you need to evaluate Go, think in Go, and write high-performance software with Go. Summerfield presents multiple idiom comparisons showing exactly how Go improves upon older languages, calling special attention to Go’s key innovations. Along the way, he explains everything from the absolute basics through Go’s lock-free channel-based concurrency and its flexible and unusual duck-typing type-safe approach to object-orientation.
+
 
 **Advanced Books**
 ---
@@ -85,6 +91,13 @@ Go in Practice guides you through dozens of real-world techniques in key areas l
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/GoNotebook/large?1425551366"  width="120px"/>
 
 A developer's exprience in golang.
+
+###[The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143)
+
+<img src="http://www.informit.com/ShowCover.aspx?isbn=9780321817143&type=f"  width="120px"/>
+
+Tested, easy-to-adapt code examples illuminate every step of Go development, helping you write highly scalable, concurrent software. You’ll master Go-specific idioms for working with strings, collections, arrays, error handling, goroutines, slices, maps, channels, numbers, dates, times, files, networking, web apps, the runtime, and more.
+
 
 **Web Development**
 ----
