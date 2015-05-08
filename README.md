@@ -36,6 +36,8 @@ This companion book contains material initially written specifically for this ev
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
+The [markdown source is available on Github](https://github.com/miekg/learninggo).
+
 ###[Go in Action](http://www.manning.com/ketelsen/)
 
 <img src="http://www.manning.com/ketelsen/Ketelsen_cover150.jpg" width="120px"/>
