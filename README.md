@@ -32,9 +32,9 @@ This book is free to [read online](http://www.golang-book.com/) or [pdf form](ht
 
 This companion book contains material initially written specifically for this event as well as content from Google & the Go team under Creative Commons Attribution 3.0 License and code licensed under a BSD license.
 
-###[Learning Go](http://www.miek.nl/downloads/Go/Learning-Go-latest.pdf) *Free*
+###[Learning Go](http://www.miek.nl/go) *Free*
 
-A free pdf to start learning golang.
+A online book to start learning Golang. It features numerous exercises (and answers).
 
 ###[Go in Action](http://www.manning.com/ketelsen/)
 
