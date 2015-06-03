@@ -21,7 +21,7 @@ The Little Go Book is a free introduction to Google's Go programming language. I
 
 ###[An Introduction to Programming in Go](http://www.golang-book.com/) *Free*
 
-<img src="http://www.golang-book.com/assets/img/cover.png" width="120px"/>
+<img src="http://www.golang-book.com/public/img/intro/cover.noatx1.png" width="120px"/>
 
 This book is good resource for absolute beginner programmers who loves program in Golang.
 This book is free to [read online](http://www.golang-book.com/) or [pdf form](http://www.golang-book.com/assets/pdf/gobook.pdf) and also available for purchase at Amazon.com in [Kindle](http://www.amazon.com/An-Introduction-Programming-Go-ebook/dp/B0095MCNAO/) or [Paperback](http://www.amazon.com/An-Introduction-Programming-Caleb-Doxsey/dp/1478355824).
