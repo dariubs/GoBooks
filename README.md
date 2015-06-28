@@ -139,7 +139,7 @@ Resources
 ====
 
 ###[Video: Learn GO Syntax in one video](http://www.youtube.com/watch?v=CF9S4QZuV30)
-###[Turorials: GO by example](https://gobyexample.com/)
+###[Tutorials: GO by example](https://gobyexample.com/)
 
 
 Contributing
