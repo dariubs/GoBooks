@@ -44,14 +44,6 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 Go in Action introduces the Go language, guiding you from inquisitive developer to Go guru. The book begins by introducing the unique features and concepts of Go. (We assume you're up to speed with another programming language already, so don't expect to spend a lot of time rehearsing stuff you already know.) Then, you'll get hands-on experience writing real-world applications including web sites and network servers, as well as techniques to manipulate and convert data at speeds that will make your friends jealous. In the final chapters, you'll go in-depth with the language and see the tricks and secrets that the Go masters are using to make their applications perform. For example, you'll learn to use Go's powerful reflection libraries and work with real-world examples of integration with C code.
 
-###[Go: Up and Running](http://shop.oreilly.com/product/0636920030638.do?sortby=bestSellers)
-
-<img src="http://akamaicovers.oreilly.com/images/0636920030638/lrg.jpg" width="120px"/>
-
-Get started with Go, the C-based Google language that emphasizes concurrency and programmer convenience for developing modern applications. This field guide takes you on an example-driven tour of the language and shows you how to be productive with Go right away.
-
-If you’re familiar with languages such as Java, C, Ruby, or Python, you’ll learn about Go’s unique features and concepts for writing concurrent programs, including multithreading and CPU parallelism, that share state by communicating. Focused modules and hands-on exercises help you understand the basics for building simple, reliable, and efficient software with Go.
-
 ###[Go Programming Blueprints](http://shop.oreilly.com/product/110000479.do)
 
 <img src="http://akamaicovers.oreilly.com/images/9781783988020/lrg.jpg" width="120px"/>
