@@ -44,11 +44,13 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 Go in Action introduces the Go language, guiding you from inquisitive developer to Go guru. The book begins by introducing the unique features and concepts of Go. (We assume you're up to speed with another programming language already, so don't expect to spend a lot of time rehearsing stuff you already know.) Then, you'll get hands-on experience writing real-world applications including web sites and network servers, as well as techniques to manipulate and convert data at speeds that will make your friends jealous. In the final chapters, you'll go in-depth with the language and see the tricks and secrets that the Go masters are using to make their applications perform. For example, you'll learn to use Go's powerful reflection libraries and work with real-world examples of integration with C code.
 
-###[Go Programming Blueprints](http://shop.oreilly.com/product/110000479.do)
+###[Go Programming Blueprints](https://www.packtpub.com/application-development/go-programming-blueprints)
 
 <img src="http://akamaicovers.oreilly.com/images/9781783988020/lrg.jpg" width="120px"/>
 
-Dive headfirst into solving actual enterprise problems and start cutting code from the word go. You will build complete applications around a variety of subjects using a range of different technologies and techniques, all of which are directly applicable to today's tech start-up world.
+Build real-world, production-ready solutions in Go using cutting-edge technology and techniques.
+
+Intended for seasoned Go programmers who want to put their expertise in Go to use to solve big, real-world, modern problems. With a basic understanding of channels and goroutines, you will hone your skills to build tools and programs that are quick and simple. You need not be an expert in distributed systems or technologies in order to deliver solutions capable of great scale. It is assumed that you are familiar with the basic concepts of Go.
 
 ###[Programming in Go: Creating Applications for the 21st Century](http://www.informit.com/store/programming-in-go-creating-applications-for-the-21st-9780321774637)
 
