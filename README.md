@@ -38,7 +38,7 @@ A online book to start learning Golang. It features numerous exercises (and answ
 
 The [markdown source is available on Github](https://github.com/miekg/learninggo).
 
-###[Go in Action](http://www.manning.com/ketelsen/)
+###[Go in Action](http://goinactionbook.com/img/slider/Ketelsen-GOinA.jpg)
 
 <img src="http://www.manning.com/ketelsen/Ketelsen_cover150.jpg" width="120px"/>
 
