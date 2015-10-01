@@ -59,6 +59,27 @@ Intended for seasoned Go programmers who want to put their expertise in Go to us
  Programming in Go brings together all the knowledge you need to evaluate Go, think in Go, and write high-performance software with Go. Summerfield presents multiple idiom comparisons showing exactly how Go improves upon older languages, calling special attention to Go’s key innovations. Along the way, he explains everything from the absolute basics through Go’s lock-free channel-based concurrency and its flexible and unusual duck-typing type-safe approach to object-orientation.
 
 
+###[The Go Programming Language](http://gopl.io/) 
+
+<img src="http://gopl.io/cover.png" width="120px"/>
+
+*The Go Programming Language* is the authoritative resource for any
+programmer who wants to learn Go.
+Alan A. A. Donovan and Brian W. Kernighan show you how to write clear
+and idiomatic Go to solve real-world problems.
+The book does not assume prior knowledge of Go nor experience with
+any specific language, so you'll find it accessible whether you're
+most comfortable with JavaScript, Ruby, Python, Java, or C++.
+
+The book features hundreds of interesting and practical examples of
+idiomatic Go code that cover the whole language, its most important libraries,
+and a wide range of applications.
+Source code is freely available for download from the book's companion web site `gopl.io`,
+and may be conveniently fetched, built, and installed using the `go get` command.
+
+
+
+
 **Advanced Books**
 ---
 
