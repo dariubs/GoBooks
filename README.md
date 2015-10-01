@@ -61,7 +61,7 @@ Intended for seasoned Go programmers who want to put their expertise in Go to us
 
 ###[The Go Programming Language](http://gopl.io/) 
 
-<img src="http://gopl.io/cover.png" width="120px"/>
+<a href='http://gopl.io/'><img src="http://gopl.io/cover.png" width="120px"/></a>
 
 *The Go Programming Language* is the authoritative resource for any
 programmer who wants to learn Go.
@@ -74,7 +74,8 @@ most comfortable with JavaScript, Ruby, Python, Java, or C++.
 The book features hundreds of interesting and practical examples of
 idiomatic Go code that cover the whole language, its most important libraries,
 and a wide range of applications.
-Source code is freely available for download from the book's companion web site `gopl.io`,
+Source code is freely available for download from the book's companion web site
+[gopl.io](http://gopl.io/),
 and may be conveniently fetched, built, and installed using the `go get` command.
 
 
