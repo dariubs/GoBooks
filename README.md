@@ -1,4 +1,4 @@
-GoLang Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 * [Books](#books)
  * [Starter Books](#starter-books)
@@ -154,8 +154,8 @@ Go Web Programming teaches you how to build web applications in Go using modern 
 Resources
 ====
 
-###[Video: Learn GO Syntax in one video](http://www.youtube.com/watch?v=CF9S4QZuV30)
-###[Tutorials: GO by example](https://gobyexample.com/)
+###[Video: Learn Go Syntax in one video](http://www.youtube.com/watch?v=CF9S4QZuV30)
+###[Tutorials: Go by Example](https://gobyexample.com/)
 
 
 Contributing
