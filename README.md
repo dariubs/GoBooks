@@ -21,10 +21,11 @@ The Little Go Book is a free introduction to Google's Go programming language. I
 
 ###[An Introduction to Programming in Go](http://www.golang-book.com/) *Free*
 
-<img src="http://www.golang-book.com/public/img/intro/cover.noatx1.png" width="120px"/>
+<img src="http://www.golang-book.com/public/img/intro/cover.0.png" width="120px"/>
 
-This book is good resource for absolute beginner programmers who want to learn Golang.
-This book is free to [read online](http://www.golang-book.com/) or [pdf form](http://www.golang-book.com/public/pdf/gobook.pdf) and also available for purchase at Amazon.com in [Kindle](http://www.amazon.com/An-Introduction-Programming-Go-ebook/dp/B0095MCNAO/) or [Paperback](http://www.amazon.com/An-Introduction-Programming-Caleb-Doxsey/dp/1478355824).
+This book is a short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
+
+This book is free to [read online](http://www.golang-book.com/) or [pdf form](http://www.golang-book.com/public/pdf/gobook.pdf) and also available for purchase at Amazon.com in [Paperback](http://www.amazon.com/An-Introduction-Programming-Caleb-Doxsey/dp/1478355824).
 
 ###[Go Bootcamp](http://www.golangbootcamp.com/) *Free*
 
@@ -78,6 +79,11 @@ Source code is freely available for download from the book's companion web site
 [gopl.io](http://gopl.io/),
 and may be conveniently fetched, built, and installed using the `go get` command.
 
+### [Introduction to Programming in Go](http://shop.oreilly.com/product/0636920046516.do)
+
+<a href="http://shop.oreilly.com/product/0636920046516.do"><img src="http://akamaicovers.oreilly.com/images/0636920046516/lrg.jpg" width="120px"/></a>
+
+Computer programming is the art, craft and science of writing programs which define how computers operate. This book will teach you how to write computer programs using Go. It takes you from a breakdown of files and the terminal (in case you need a refresher, or are a new programmer), up to creating packages and testing.
 
 
 
