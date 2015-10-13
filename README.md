@@ -25,7 +25,7 @@ The Little Go Book is a free introduction to Google's Go programming language. I
 
 This book is a short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
 
-This book is free to [read online](http://www.golang-book.com/) or [pdf form](http://www.golang-book.com/public/pdf/gobook.pdf) and also available for purchase at Amazon.com in [Paperback](http://www.amazon.com/An-Introduction-Programming-Caleb-Doxsey/dp/1478355824).
+This book is free to [read online](http://www.golang-book.com/) or [pdf form](http://www.golang-book.com/public/pdf/gobook.pdf).
 
 ###[Go Bootcamp](http://www.golangbootcamp.com/) *Free*
 
