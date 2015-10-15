@@ -85,7 +85,11 @@ and may be conveniently fetched, built, and installed using the `go get` command
 
 Computer programming is the art, craft and science of writing programs which define how computers operate. This book will teach you how to write computer programs using Go. It takes you from a breakdown of files and the terminal (in case you need a refresher, or are a new programmer), up to creating packages and testing.
 
+### [Learn Go](https://manning.com/books/learn-go?a_aid=nathany&a_bid=53f68821)
 
+<a href="https://manning.com/books/learn-go?a_aid=nathany&a_bid=53f68821"><img src="https://nathany.com/images/learn-go-meap.png" width="120px"/></a>
+
+Learn Go is a beginner-friendly introduction to the Go language. You'll get expert guidance as you work through hands-on exercises. First, you'll walk through basic constructs of the language while building a spaceline ticket generator. Next you'll move on to the type system, decoding text messages from space, and making calculations. You'll discover functions, methods, and collections. And then you'll dive into more advanced topics like nitty-gritty memory management with pointers and Go's concurrency primitives. The last few chapters cover code management in larger projects and automated testing.
 
 **Advanced Books**
 ---
