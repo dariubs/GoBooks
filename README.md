@@ -135,11 +135,11 @@ Tested, easy-to-adapt code examples illuminate every step of Go development, hel
 
 A good resource for start Building Web Apps with Go. Free to [read online](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/), [pdf](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) and [mobi](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) version.
 
-###[Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+###[Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) *Free*
 
 <img src="https://sm3lir.cloudimage.io/s/width/226/https://www.gitbook.com/cover/book/astaxie/build-web-application-with-golang.jpg" width="120px"/>
 
-Another Awesome book for learning Web Development in Golang. Free to [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
+Another awesome book for learning Web Development in Golang. Free to [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
 ###[Mastering Go Web Services ](http://shop.oreilly.com/product/9781783981304.do)
 
