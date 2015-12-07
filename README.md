@@ -100,7 +100,9 @@ A short guide to Test-driven development in golang. free to [read online](https:
 
 ###[Network programming with Go](http://jan.newmarch.name/go/) *Free*
 
-An e-book on building network applications using the Google Go programming language.free to [read online](http://jan.newmarch.name/go/).
+<img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/jannewmarch/network-programming-with-go-golang-.jpg" width="120px"/>
+
+An e-book on building network applications using the Google Go programming language.free to [read online](https://www.gitbook.com/book/jannewmarch/network-programming-with-go-golang-/details).
 
 ###[Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do)
 
