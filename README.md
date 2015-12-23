@@ -39,9 +39,9 @@ A online book to start learning Golang. It features numerous exercises (and answ
 
 The [markdown source is available on Github](https://github.com/miekg/learninggo).
 
-###[Go in Action](http://www.manning.com/ketelsen/)
+###[Go in Action](https://www.manning.com/books/go-in-action)
 
-<img src="http://goinactionbook.com/img/slider/Ketelsen-GOinA.jpg" width="120px"/>
+<img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
 
 Go in Action introduces the Go language, guiding you from inquisitive developer to Go guru. The book begins by introducing the unique features and concepts of Go. (We assume you're up to speed with another programming language already, so don't expect to spend a lot of time rehearsing stuff you already know.) Then, you'll get hands-on experience writing real-world applications including web sites and network servers, as well as techniques to manipulate and convert data at speeds that will make your friends jealous. In the final chapters, you'll go in-depth with the language and see the tricks and secrets that the Go masters are using to make their applications perform. For example, you'll learn to use Go's powerful reflection libraries and work with real-world examples of integration with C code.
 
@@ -60,7 +60,7 @@ Intended for seasoned Go programmers who want to put their expertise in Go to us
  Programming in Go brings together all the knowledge you need to evaluate Go, think in Go, and write high-performance software with Go. Summerfield presents multiple idiom comparisons showing exactly how Go improves upon older languages, calling special attention to Go’s key innovations. Along the way, he explains everything from the absolute basics through Go’s lock-free channel-based concurrency and its flexible and unusual duck-typing type-safe approach to object-orientation.
 
 
-###[The Go Programming Language](http://gopl.io/) 
+###[The Go Programming Language](http://gopl.io/)
 
 <a href='http://gopl.io/'><img src="http://gopl.io/cover.png" width="120px"/></a>
 
