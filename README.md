@@ -79,11 +79,11 @@ Source code is freely available for download from the book's companion web site
 [gopl.io](http://gopl.io/),
 and may be conveniently fetched, built, and installed using the `go get` command.
 
-### [Introduction to Programming in Go](http://shop.oreilly.com/product/0636920046516.do)
+### [Introducing Go: Build Reliable, Scalable Programs](http://shop.oreilly.com/product/0636920046516.do)
 
 <a href="http://shop.oreilly.com/product/0636920046516.do"><img src="http://akamaicovers.oreilly.com/images/0636920046516/lrg.jpg" width="120px"/></a>
 
-Computer programming is the art, craft and science of writing programs which define how computers operate. This book will teach you how to write computer programs using Go. It takes you from a breakdown of files and the terminal (in case you need a refresher, or are a new programmer), up to creating packages and testing.
+Perfect for beginners familiar with programming basics, this hands-on guide provides an easy introduction to Go, the general-purpose programming language from Google. Author Caleb Doxsey covers the language's core features with step-by-step instructions and exercises in each chapter to help you practice what you learn.
 
 ### [Learn Go](https://manning.com/books/learn-go?a_aid=nathany&a_bid=53f68821)
 
