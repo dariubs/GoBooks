@@ -163,6 +163,18 @@ At each step, you’ll get advice for better coding in Go. You’ll see how to s
 
 Go Web Programming teaches you how to build web applications in Go using modern design principles. You'll work through numerous examples that introduce core concepts like processing requests and sending responses, template engines, and data persistence. You'll also dive into more advanced topics, such as concurrency, web application testing and deployment both to barebones servers and PaaS providers.
 
+###[Build webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *free*
+
+<img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/blob/master/cover.jpg" width="120px"/>
+
+This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that you'll learn a lot when you code without a framework.
+
+Free to [read online](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
+[Download PDF](https://www.gitbook.com/download/pdf/book/thewhitetulip/webapp-with-golang-anti-textbook)
+[Download ePub](https://www.gitbook.com/download/epub/book/thewhitetulip/webapp-with-golang-anti-textbook)
+[Download mobi](https://www.gitbook.com/download/mobi/book/thewhitetulip/webapp-with-golang-anti-textbook)
+
+
 Resources
 ====
 
