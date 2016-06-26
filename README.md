@@ -91,6 +91,13 @@ Perfect for beginners familiar with programming basics, this hands-on guide prov
 
 Learn Go is a beginner-friendly introduction to the Go language. You'll get expert guidance as you work through hands-on exercises. First, you'll walk through basic constructs of the language while building a spaceline ticket generator. Next you'll move on to the type system, decoding text messages from space, and making calculations. You'll discover functions, methods, and collections. And then you'll dive into more advanced topics like nitty-gritty memory management with pointers and Go's concurrency primitives. The last few chapters cover code management in larger projects and automated testing.
 
+### [Go Programming by Example](https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ)
+
+<a href="https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ"><img src="https://images-na.ssl-images-amazon.com/images/I/41tDoH9l0GL.jpg" width="120px"/></a>
+
+Go, commonly referred to as golang, is a programming language initially developed at Google in 2007. This book helps you to get started with Go programming. It describes all the elements of the language and illustrates their use with code examples.
+
+
 **Advanced Books**
 ---
 
