@@ -89,14 +89,13 @@ Perfect for beginners familiar with programming basics, this hands-on guide prov
 
 <a href="https://manning.com/books/learn-go?a_aid=nathany&a_bid=53f68821"><img src="https://nathany.com/images/learn-go-meap.jpg" width="120px"/></a>
 
-Learn Go is a beginner-friendly introduction to the Go language. You'll get expert guidance as you work through hands-on exercises. First, you'll walk through basic constructs of the language while building a spaceline ticket generator. Next you'll move on to the type system, decoding text messages from space, and making calculations. You'll discover functions, methods, and collections. And then you'll dive into more advanced topics like nitty-gritty memory management with pointers and Go's concurrency primitives. The last few chapters cover code management in larger projects and automated testing.
+*Learn Go* is a beginner’s guide to the Go programming language, aimed squarely at hobbyists and new developers. It’s chock-full of exercises that you can tackle with nothing more than a web browser. Move forward each day with succinctly written chapters punctuated by elaborate challenges. By the end you will have cracked ancient ciphers, discovered the wonders of cellular automatons, planned a vacation on Mars, and directed rovers to gather weather data. This is just the beginning. What you build next is up to you.
 
 ### [Go Programming by Example](https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ)
 
 <a href="https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ"><img src="https://images-na.ssl-images-amazon.com/images/I/41tDoH9l0GL.jpg" width="120px"/></a>
 
 Go, commonly referred to as golang, is a programming language initially developed at Google in 2007. This book helps you to get started with Go programming. It describes all the elements of the language and illustrates their use with code examples.
-
 
 **Advanced Books**
 ---
@@ -140,13 +139,13 @@ Tested, easy-to-adapt code examples illuminate every step of Go development, hel
 ----
 ###[Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
 
-<img src="https://sm3lir.cloudimage.io/s/width/226/https://www.gitbook.com/cover/book/codegangsta/building-web-apps-with-go.jpg" width="120px"/>
+<img src="https://www.gitbook.com/cover/book/codegangsta/building-web-apps-with-go.jpg" width="120px"/>
 
 A good resource for start Building Web Apps with Go. Free to [read online](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/), [pdf](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) and [mobi](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) version.
 
 ###[Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) *Free*
 
-<img src="https://sm3lir.cloudimage.io/s/width/226/https://www.gitbook.com/cover/book/astaxie/build-web-application-with-golang.jpg" width="120px"/>
+<img src="https://www.gitbook.com/cover/book/astaxie/build-web-application-with-golang.jpg" width="120px"/>
 
 Another awesome book for learning Web Development in Golang. Free to [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
@@ -172,7 +171,7 @@ Go Web Programming teaches you how to build web applications in Go using modern 
 
 ###[Build webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *free*
 
-<img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/blob/master/cover.jpg" width="120px"/>
+<img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
 
 This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that you'll learn a lot when you code without a framework.
 
@@ -181,6 +180,11 @@ Free to [read online](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-
 [Download ePub](https://www.gitbook.com/download/epub/book/thewhitetulip/webapp-with-golang-anti-textbook)
 [Download mobi](https://www.gitbook.com/download/mobi/book/thewhitetulip/webapp-with-golang-anti-textbook)
 
+###[Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797)
+
+<a href="https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797"><img src="https://images-na.ssl-images-amazon.com/images/I/51oy5Nd9BoL._SX384_BO1,204,203,200_.jpg" width="120px"/></a>
+
+Today, companies and developers need to respond to changing markets at breakneck speeds. Organizations that aren't built on highly-available, rapidly-evolving software are going the way of the dinosaurs. Cloud Native Go brings together the knowledge developers need to build massive-scale cloud applications that meet the insatiable demands of today's customers and markets.
 
 Resources
 ====
