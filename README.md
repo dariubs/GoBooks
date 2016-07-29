@@ -89,7 +89,7 @@ Perfect for beginners familiar with programming basics, this hands-on guide prov
 
 <a href="https://manning.com/books/learn-go?a_aid=nathany&a_bid=53f68821"><img src="https://nathany.com/images/learn-go-meap.jpg" width="120px"/></a>
 
-Learn Go is a beginner-friendly introduction to the Go language. You'll get expert guidance as you work through hands-on exercises. First, you'll walk through basic constructs of the language while building a spaceline ticket generator. Next you'll move on to the type system, decoding text messages from space, and making calculations. You'll discover functions, methods, and collections. And then you'll dive into more advanced topics like nitty-gritty memory management with pointers and Go's concurrency primitives. The last few chapters cover code management in larger projects and automated testing.
+*Learn Go* is a beginner’s guide to the Go programming language, aimed squarely at hobbyists and new developers. It’s chock-full of exercises that you can tackle with nothing more than a web browser. Move forward each day with succinctly written chapters punctuated by elaborate challenges. By the end you will have cracked ancient ciphers, discovered the wonders of cellular automatons, planned a vacation on Mars, and directed rovers to gather weather data. This is just the beginning. What you build next is up to you.
 
 ### [Go Programming by Example](https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ)
 
