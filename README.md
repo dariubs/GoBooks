@@ -139,13 +139,13 @@ Tested, easy-to-adapt code examples illuminate every step of Go development, hel
 ----
 ###[Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
 
-<img src="https://sm3lir.cloudimage.io/s/width/226/https://www.gitbook.com/cover/book/codegangsta/building-web-apps-with-go.jpg" width="120px"/>
+<img src="https://www.gitbook.com/cover/book/codegangsta/building-web-apps-with-go.jpg" width="120px"/>
 
 A good resource for start Building Web Apps with Go. Free to [read online](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/), [pdf](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) and [mobi](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) version.
 
 ###[Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) *Free*
 
-<img src="https://sm3lir.cloudimage.io/s/width/226/https://www.gitbook.com/cover/book/astaxie/build-web-application-with-golang.jpg" width="120px"/>
+<img src="https://www.gitbook.com/cover/book/astaxie/build-web-application-with-golang.jpg" width="120px"/>
 
 Another awesome book for learning Web Development in Golang. Free to [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
@@ -171,7 +171,7 @@ Go Web Programming teaches you how to build web applications in Go using modern 
 
 ###[Build webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *free*
 
-<img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/blob/master/cover.jpg" width="120px"/>
+<img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
 
 This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that you'll learn a lot when you code without a framework.
 
