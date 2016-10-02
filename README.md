@@ -186,6 +186,13 @@ Free to [read online](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-
 
 Today, companies and developers need to respond to changing markets at breakneck speeds. Organizations that aren't built on highly-available, rapidly-evolving software are going the way of the dinosaurs. Cloud Native Go brings together the knowledge developers need to build massive-scale cloud applications that meet the insatiable demands of today's customers and markets.
 
+###[Go: Building Web Applications]
+(https://www.amazon.com/Go-Building-Applications-Nathan-Kozyra-ebook/dp/B01LD8K5C0/ref=sr_1_2?s=books&ie=UTF8&qid=1475430969&sr=1-2&keywords=Go%3A+Building+Web+Applications)
+
+<a href="https://www.amazon.com/Go-Building-Applications-Nathan-Kozyra-ebook/dp/B01LD8K5C0/ref=sr_1_2?s=books&ie=UTF8&qid=1475430969&sr=1-2&keywords=Go%3A+Building+Web+Applications"><img src="https://images-na.ssl-images-amazon.com/images/I/51vKBWRztbL.jpg" width="120px"/></a>
+
+This course is an invaluable resource to help you understand Go's powerful features to build simple, reliable, secure, and efficient web applications.
+
 Resources
 ====
 
