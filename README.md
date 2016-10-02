@@ -192,6 +192,12 @@ Today, companies and developers need to respond to changing markets at breakneck
 
 Web Development with Go was written to teach both beginners and experts how to create and deploy a real web application. You won't be building a boilerplate TODO list, but will instead be creating and deploying a production ready photo gallery application, similar to Pixieset, from scratch. The book assumes no previous web development experience and covers everything you need to know to successfully build your own web application.
 
+###[Go: Building Web Applications](https://amzn.com/B01LD8K5C0)
+
+<a href="https://amzn.com/B01LD8K5C0"><img src="https://images-na.ssl-images-amazon.com/images/I/51vKBWRztbL.jpg" width="120px"/></a>
+
+This course is an invaluable resource to help you understand Go's powerful features to build simple, reliable, secure, and efficient web applications.
+
 Resources
 ====
 

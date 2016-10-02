@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-redirect --white-list golang-book,gopl.io,0636920046516,manning.com/books/learn-go,jannewmarch,codegangsta,creativecommons,gobyexample,Ketelsen-GOinA.jpg,amazon
+  - awesome_bot README.md --allow-redirect --white-list golang-book,gopl.io,0636920046516,manning.com/books/learn-go,jannewmarch,codegangsta,creativecommons,gobyexample,Ketelsen-GOinA.jpg,amazon,amzn
