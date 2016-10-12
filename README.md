@@ -188,7 +188,7 @@ Today, companies and developers need to respond to changing markets at breakneck
 
 ###[Web Development with Go: Learn to Create Real World Web Applications using Go](https://gumroad.com/l/web-development-with-go) 
 
-<a href="https://gumroad.com/l/web-development-with-go"><img src="http://early.usegolang.com/images/Cover300ppi.png" width="120px"/></a>
+<a href="https://gum.co/web-development-with-go"><img src="http://www.calhoun.io/static/Cover300ppi.png" width="120px"/></a>
 
 Web Development with Go was written to teach both beginners and experts how to create and deploy a real web application. You won't be building a boilerplate TODO list, but will instead be creating and deploying a production ready photo gallery application, similar to Pixieset, from scratch. The book assumes no previous web development experience and covers everything you need to know to successfully build your own web application.
 
