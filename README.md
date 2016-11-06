@@ -39,6 +39,12 @@ A online book to start learning Golang. It features numerous exercises (and answ
 
 The [markdown source is available on Github](https://github.com/miekg/learninggo).
 
+###[Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers) *Free*
+
+<img src="https://raw.githubusercontent.com/bulim/go-for-javascript-developers/master/images/thumb.png" width="120px"/>
+
+This book helps Javascripters become Gophers. Outlining the differences between these languages makes it easier to switch back and forth, and can help mitigate potential issues when doing so.
+
 ###[Go in Action](https://www.manning.com/books/go-in-action)
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
