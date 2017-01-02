@@ -103,6 +103,13 @@ Perfect for beginners familiar with programming basics, this hands-on guide prov
 
 Go, commonly referred to as golang, is a programming language initially developed at Google in 2007. This book helps you to get started with Go programming. It describes all the elements of the language and illustrates their use with code examples.
 
+
+### [Learning Go programming](https://www.packtpub.com/application-development/learning-go-programming)
+
+<a href="https://www.packtpub.com/application-development/learning-go-programming"><img src="https://vladimirvivien.github.io/learning-go/front-cover-small-243x300.jpg" width="120px"/></a>
+
+*Learning Go Programming* is a book intended to help new, and seasoned programmers alike, to get into the Go programming language. The book distills the language specs, the documentations, the blogs, the videos, slides, and the author's experiences of writing Go into content that carefully provides the right amount of depth and insights to help you understand the language and its design.
+
 **Advanced Books**
 ---
 
