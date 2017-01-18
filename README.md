@@ -55,7 +55,7 @@ Go in Action introduces the Go language, guiding you from inquisitive developer 
 
 <img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/8949cov_.jpg" width="120px"/>
 
-This book shows you how to build powerful systems and drops you into real-world situations. Scale, performance, and high availability lie at the heart of our projects, and the lessons learned throughout this book will arm you with everything you need to build world-class solutions. 
+This book shows you how to build powerful systems and drops you into real-world situations. Scale, performance, and high availability lie at the heart of our projects, and the lessons learned throughout this book will arm you with everything you need to build world-class solutions.
 
 ###[Programming in Go: Creating Applications for the 21st Century](http://www.informit.com/store/programming-in-go-creating-applications-for-the-21st-9780321774637)
 
@@ -100,6 +100,12 @@ Perfect for beginners familiar with programming basics, this hands-on guide prov
 <a href="https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ"><img src="https://images-na.ssl-images-amazon.com/images/I/41tDoH9l0GL.jpg" width="120px"/></a>
 
 Go, commonly referred to as golang, is a programming language initially developed at Google in 2007. This book helps you to get started with Go programming. It describes all the elements of the language and illustrates their use with code examples.
+
+### [Go Recipes](http://www.apress.com/us/book/9781484211892)
+
+<a href="http://www.apress.com/us/book/9781484211892"><img src="https://images.springer.com/sgw/books/medium/9781484211892.jpg" width="120px"/></a>
+
+Solve your Go problems using a problem-solution approach. Each recipe is a self-contained answer to a practical programming problem in Go. Go Recipes contains recipes that deal with the fundamentals of Go, allowing you to build simple, reliable, and efficient software. Other topics include working with data using modern NoSQL databases such as MongoDB and RethinkDB. The book provides in-depth guidance for building highly scalable backend APIs in Go for your mobile client applications and web client applications.
 
 **Advanced Books**
 ---
@@ -185,7 +191,7 @@ This book was written to teach how to develop web applications in Go for people 
 
 Today, companies and developers need to respond to changing markets at breakneck speeds. Organizations that aren't built on highly-available, rapidly-evolving software are going the way of the dinosaurs. Cloud Native Go brings together the knowledge developers need to build massive-scale cloud applications that meet the insatiable demands of today's customers and markets.
 
-###[Web Development with Go: Learn to Create Real World Web Applications using Go](https://gumroad.com/l/web-development-with-go) 
+###[Web Development with Go: Learn to Create Real World Web Applications using Go](https://gumroad.com/l/web-development-with-go)
 
 <a href="https://gum.co/web-development-with-go"><img src="http://www.calhoun.io/static/Cover300ppi.png" width="120px"/></a>
 
