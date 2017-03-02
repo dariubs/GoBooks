@@ -121,7 +121,13 @@ Solve your Go problems using a problem-solution approach. Each recipe is a self-
 
 <img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/image.jpg" width="120px"/>
 
-Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD
+Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD.
+
+###[Go Reactive Programming](https://www.packtpub.com/application-development/go-reactive-programming)
+
+<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06127_MockupCover.png" width="120px"/>
+
+Build concurrent, easy-to-maintain responsive applications in Go.
 
 ###[Test-driven development with Go](https://leanpub.com/golang-tdd) *Free*
 
