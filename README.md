@@ -107,10 +107,23 @@ Go, commonly referred to as golang, is a programming language initially develope
 
 Solve your Go problems using a problem-solution approach. Each recipe is a self-contained answer to a practical programming problem in Go. Go Recipes contains recipes that deal with the fundamentals of Go, allowing you to build simple, reliable, and efficient software. Other topics include working with data using modern NoSQL databases such as MongoDB and RethinkDB. The book provides in-depth guidance for building highly scalable backend APIs in Go for your mobile client applications and web client applications.
 
+=======
+### [Learning Go programming](https://www.packtpub.com/application-development/learning-go-programming)
+
+<a href="https://www.packtpub.com/application-development/learning-go-programming"><img src="https://vladimirvivien.github.io/learning-go/front-cover-small-243x300.jpg" width="120px"/></a>
+
+*Learning Go Programming* is a book intended to help new, and seasoned programmers alike, to get into the Go programming language. The book distills the language specs, the documentations, the blogs, the videos, slides, and the author's experiences of writing Go into content that carefully provides the right amount of depth and insights to help you understand the language and its design.
+
 **Advanced Books**
 ---
 
-###[Test-driven development with Go ](https://leanpub.com/golang-tdd) *Free*
+###[Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
+
+<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/image.jpg" width="120px"/>
+
+Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD
+
+###[Test-driven development with Go](https://leanpub.com/golang-tdd) *Free*
 
 A short guide to Test-driven development in golang. free to [read online](https://leanpub.com/golang-tdd/read).
 
