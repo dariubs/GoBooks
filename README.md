@@ -120,11 +120,13 @@ Solve your Go problems using a problem-solution approach. Each recipe is a self-
 
 A short guide to Test-driven development in golang. free to [read online](https://leanpub.com/golang-tdd/read).
 
-### [Network Programming with Go](https://www.gitbook.com/book/jannewmarch/network-programming-with-go-golang-/details) *Free*
+### [Network Programming with Go](https://www.apress.com/us/book/9781484226919)
 
-<img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/jannewmarch/network-programming-with-go-golang-.jpg" width="120px"/>
+<img src="https://images.springer.com/sgw/books/medium/9781484226919.jpg" width="120px"/>
 
-An e-book on building network applications using the Google Go programming language. Free to [read online](https://www.gitbook.com/book/jannewmarch/network-programming-with-go-golang-/details).
+Dive into key topics in network architecture and Go, such as data serialization, application level protocols, character sets and encodings. This book covers network architecture and gives an overview of the Go language as a primer, covering the latest Go release.
+
+Beyond the fundamentals, Network Programming with Go covers key networking and security issues such as HTTP and HTTPS, templates, remote procedure call (RPC), web sockets including HTML5 web sockets, and more.
 
 ### [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do)
 
