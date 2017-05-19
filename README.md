@@ -89,11 +89,11 @@ and may be conveniently fetched, built, and installed using the `go get` command
 
 Perfect for beginners familiar with programming basics, this hands-on guide provides an easy introduction to Go, the general-purpose programming language from Google. Author Caleb Doxsey covers the language's core features with step-by-step instructions and exercises in each chapter to help you practice what you learn.
 
-### [Learn Go](https://manning.com/books/learn-go?a_aid=nathany&a_bid=53f68821)
+### [Get Programming with Go](https://www.manning.com/books/get-programming-with-go?a_aid=nathany&a_bid=53f68821)
 
-<a href="https://manning.com/books/learn-go?a_aid=nathany&a_bid=53f68821"><img src="https://nathany.com/images/learn-go-meap.jpg" width="120px"/></a>
+<a href="https://www.manning.com/books/get-programming-with-go?a_aid=nathany&a_bid=53f68821"><img src="https://images.manning.com/120/160/resize/book/0/85793cf-cbb9-4f32-8f4b-d4767755dc5c/Youngman_GetProg-go_hiresmeap.png" width="120px"/></a>
 
-*Learn Go* is a beginner’s guide to the Go programming language, aimed squarely at hobbyists and new developers. It’s chock-full of exercises that you can tackle with nothing more than a web browser. Move forward each day with succinctly written chapters punctuated by elaborate challenges. By the end you will have cracked ancient ciphers, discovered the wonders of cellular automatons, planned a vacation on Mars, and directed rovers to gather weather data. This is just the beginning. What you build next is up to you.
+*Get Programming with Go* introduces you to the powerful Go language without the confusing jargon or high-level theory. By working through over 25 quick-fire chapters, you'll quickly pick up the basics of the innovative Go programming language! Most of the examples in this book can be executed in the Go playground, so you don't need to worry about setting up a practice environment. Chock-full of engaging projects, you'll crack ancient ciphers, discover the wonders of cellular automatons, plan a vacation on Mars, and direct rovers to gather weather data!
 
 ### [Go Programming by Example](https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ)
 
