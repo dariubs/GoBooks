@@ -159,8 +159,8 @@ A developer's exprience in golang.
 Tested, easy-to-adapt code examples illuminate every step of Go development, helping you write highly scalable, concurrent software. You’ll master Go-specific idioms for working with strings, collections, arrays, error handling, goroutines, slices, maps, channels, numbers, dates, times, files, networking, web apps, the runtime, and more.
 
 ### [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
-
-<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B05557.png" width="120px"/>
+ 
+<img src="https://www.packtpub.com/sites/default/files/B05557.png" width="120px"/>
 
 Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD.
 
