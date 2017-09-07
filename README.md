@@ -113,6 +113,12 @@ Solve your Go problems using a problem-solution approach. Each recipe is a self-
 
 *Learning Go Programming* is a book intended to help new, and seasoned programmers alike, to get into the Go programming language. The book distills the language specs, the documentations, the blogs, the videos, slides, and the author's experiences of writing Go into content that carefully provides the right amount of depth and insights to help you understand the language and its design.
 
+### [API Foundations in Go](https://leanpub.com/api-foundations)
+
+<a href="https://leanpub.com/api-foundations"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/api-foundations/hero?1504290765" width="120px"/></a>
+
+With this book you'll learn to use Go, taking advantage of it's multi-threaded nature, and typed syntax. Starting your API implementation in Go is your first step towards what a rock solid API should be.
+
 **Advanced Books**
 ---
 
@@ -221,6 +227,12 @@ Web Development with Go was written to teach both beginners and experts how to c
 <a href="https://amzn.com/B01LD8K5C0"><img src="https://images-na.ssl-images-amazon.com/images/I/51vKBWRztbL.jpg" width="120px"/></a>
 
 This course is an invaluable resource to help you understand Go's powerful features to build simple, reliable, secure, and efficient web applications.
+
+### [12 Factor Applications with Docker and Go](https://leanpub.com/12fa-docker-golang)
+
+<a href="https://leanpub.com/12fa-docker-golang"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/12fa-docker-golang/hero?1503844662" width="120px"/></a>
+
+A book filled with examples on how to use Docker and Go to create the ultimate 12 Factor applications. It goes over individual steps of [The Twelve-Factor App](12factor.net) guidelines and how to implement them with Go and Docker.
 
 Resources
 ====
