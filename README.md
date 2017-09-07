@@ -113,6 +113,12 @@ Solve your Go problems using a problem-solution approach. Each recipe is a self-
 
 *Learning Go Programming* is a book intended to help new, and seasoned programmers alike, to get into the Go programming language. The book distills the language specs, the documentations, the blogs, the videos, slides, and the author's experiences of writing Go into content that carefully provides the right amount of depth and insights to help you understand the language and its design.
 
+### [API Foundations in Go](https://leanpub.com/api-foundations)
+
+<a href="https://leanpub.com/api-foundations"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/api-foundations/hero?1504290765" width="120px"/></a>
+
+With this book you'll learn to use Go, taking advantage of it's multi-threaded nature, and typed syntax. Starting your API implementation in Go is your first step towards what a rock solid API should be.
+
 **Advanced Books**
 ---
 
@@ -227,6 +233,12 @@ This course is an invaluable resource to help you understand Go's powerful featu
 <img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781786468666.png" width="120px"/>
 
 Whether you are planning a new application or working in an existing monolith, this book will explain and illustrate with practical examples how teams of all sizes can start solving problems with microservices. It will help you understand Docker and Docker-Compose and how it can be used to isolate microservice dependencies and build environments. We finish off by showing you various techniques to monitor, test, and secure your microservices.
+
+### [12 Factor Applications with Docker and Go](https://leanpub.com/12fa-docker-golang)
+
+<a href="https://leanpub.com/12fa-docker-golang"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/12fa-docker-golang/hero?1503844662" width="120px"/></a>
+
+A book filled with examples on how to use Docker and Go to create the ultimate 12 Factor applications. It goes over individual steps of [The Twelve-Factor App](12factor.net) guidelines and how to implement them with Go and Docker.
 
 Resources
 ====
