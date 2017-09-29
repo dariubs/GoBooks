@@ -53,7 +53,7 @@ Go in Action introduces the Go language, guiding you from inquisitive developer 
 
 ### [Go Programming Blueprints - 2nd Ed.](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
 
-<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/8949cov_.jpg" width="120px"/>
+<img src="https://www.packtpub.com/sites/default/files/8949cov_.png" width="120px"/>
 
 This book shows you how to build powerful systems and drops you into real-world situations. Scale, performance, and high availability lie at the heart of our projects, and the lessons learned throughout this book will arm you with everything you need to build world-class solutions.
 
@@ -153,8 +153,8 @@ A developer's exprience in golang.
 Tested, easy-to-adapt code examples illuminate every step of Go development, helping you write highly scalable, concurrent software. You’ll master Go-specific idioms for working with strings, collections, arrays, error handling, goroutines, slices, maps, channels, numbers, dates, times, files, networking, web apps, the runtime, and more.
 
 ### [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
- 
-<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/image.jpg" width="120px"/>
+
+<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B05557.png" width="120px"/>
 
 Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD.
 
