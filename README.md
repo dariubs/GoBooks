@@ -222,6 +222,12 @@ Web Development with Go was written to teach both beginners and experts how to c
 
 This course is an invaluable resource to help you understand Go's powerful features to build simple, reliable, secure, and efficient web applications.
 
+### [Building Microservices with Go](https://www.packtpub.com/application-development/building-microservices-go)
+
+<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781786468666.png" width="120px"/>
+
+Whether you are planning a new application or working in an existing monolith, this book will explain and illustrate with practical examples how teams of all sizes can start solving problems with microservices. It will help you understand Docker and Docker-Compose and how it can be used to isolate microservice dependencies and build environments. We finish off by showing you various techniques to monitor, test, and secure your microservices.
+
 Resources
 ====
 
