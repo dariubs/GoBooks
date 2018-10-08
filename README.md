@@ -230,6 +230,7 @@ Resources
 ### [Tutorials: Go by Example](https://gobyexample.com/)
 ### [Go Fundamentals Video Training](http://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 ### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books)
+### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 
 Contributing
 ====
