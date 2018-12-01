@@ -93,7 +93,7 @@ Perfect for beginners familiar with programming basics, this hands-on guide prov
 
 <a href="https://www.manning.com/books/get-programming-with-go?a_aid=nathany&a_bid=53f68821"><img src="https://images.manning.com/720/960/resize/book/3/ddd56a6-ba2b-4ca4-bda2-540761b91c55/Go-Youngman_hi-res_REV.png" width="120px"/></a>
 
-*Get Programming with Go* introduces you to the powerful Go language without the confusing jargon or high-level theory. By working through over 25 quick-fire chapters, you'll quickly pick up the basics of the innovative Go programming language! Most of the examples in this book can be executed in the Go playground, so you don't need to worry about setting up a practice environment. Chock-full of engaging projects, you'll crack ancient ciphers, discover the wonders of cellular automatons, plan a vacation on Mars, and direct rovers to gather weather data!
+*Get Programming with Go* introduces you to the powerful Go language without confusing jargon or high-level theory. By working through 32 quick-fire lessons, you'll quickly pick up the basics of the innovative Go programming language!
 
 ### [Go Programming by Example](https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ)
 
