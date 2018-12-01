@@ -53,7 +53,7 @@ Go in Action introduces the Go language, guiding you from inquisitive developer 
 
 ### [Go Programming Blueprints - 2nd Ed.](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
 
-<img src="https://www.packtpub.com/sites/default/files/8949cov_.png" width="120px"/>
+<img src="https://www.packtpub.com/sites/default/files/B05569.png" width="120px"/>
 
 This book shows you how to build powerful systems and drops you into real-world situations. Scale, performance, and high availability lie at the heart of our projects, and the lessons learned throughout this book will arm you with everything you need to build world-class solutions.
 
@@ -191,13 +191,9 @@ Concurrency can be notoriously difficult to get right, but fortunately, the Go o
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
 
-<img src="https://www.gitbook.com/cover/book/codegangsta/building-web-apps-with-go.jpg" width="120px"/>
-
-A good resource for start Building Web Apps with Go. Free to [read online](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/), [pdf](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) and [mobi](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) version.
+A good resource for start Building Web Apps with Go. Free to [read online](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/).
 
 ### [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) *Free*
-
-<img src="https://www.gitbook.com/cover/book/astaxie/build-web-application-with-golang.jpg" width="120px"/>
 
 Another awesome book for learning Web Development in Golang. Free to [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
@@ -247,7 +243,7 @@ This course is an invaluable resource to help you understand Go's powerful featu
 
 ### [Building Microservices with Go](https://www.packtpub.com/application-development/building-microservices-go)
 
-<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781786468666.png" width="120px"/>
+<img src="https://www.packtpub.com/sites/default/files/B05528.png" width="120px"/>
 
 Whether you are planning a new application or working in an existing monolith, this book will explain and illustrate with practical examples how teams of all sizes can start solving problems with microservices. It will help you understand Docker and Docker-Compose and how it can be used to isolate microservice dependencies and build environments. We finish off by showing you various techniques to monitor, test, and secure your microservices.
 
