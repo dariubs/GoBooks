@@ -287,6 +287,7 @@ Resources
 ### [Go Fundamentals Video Training](http://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 ### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books)
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
+### [Coursera Specialization : Programming with Go](https://www.coursera.org/specializations/google-golang/)
 
 Contributing
 ====
