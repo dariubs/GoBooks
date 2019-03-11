@@ -263,6 +263,12 @@ Together, we'll build a strong, API-first, reusable codebase suitable for
 building a SaaS or vanilla web application. By the end of the book you'll have 
 a solid framework to use as the starting point for future projects.
 
+### [Let's Go!](https://lets-go.alexedwards.net/)
+
+<img src="https://lets-go.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
+
+Let's Go teaches you step-by-step how to create fast, secure and maintainable web applications using Go. It guides you through the start-to-finish build of a real-world application — covering topics like how to structure your code, manage dependencies, authenticate and authorize users, secure your server and test your application.
+
 Resources
 ====
 
