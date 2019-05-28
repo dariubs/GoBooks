@@ -255,6 +255,14 @@ Whether you are planning a new application or working in an existing monolith, t
 
 A book filled with examples on how to use Docker and Go to create the ultimate 12 Factor applications. It goes over individual steps of [The Twelve-Factor App](12factor.net) guidelines and how to implement them with Go and Docker.
 
+### [Build SaaS apps in Go](https://buildsaasappingo.com)
+
+<a href="https://buildsaasappingo.com"><img src="https://buildsaasappingo.com/public/basaig.jpg" width="120"/></a>
+
+Together, we'll build a strong, API-first, reusable codebase suitable for 
+building a SaaS or vanilla web application. By the end of the book you'll have 
+a solid framework to use as the starting point for future projects.
+
 Resources
 ====
 
