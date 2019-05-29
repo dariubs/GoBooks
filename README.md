@@ -166,7 +166,7 @@ Tested, easy-to-adapt code examples illuminate every step of Go development, hel
 
 Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD.
 
-### [Go Reactive Programming](https://www.packtpub.com/application-development/go-reactive-programming)
+### [Go Reactive Programming](https://www.packtpub.com)
 
 <img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06127_MockupCover.png" width="120px"/>
 
