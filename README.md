@@ -21,7 +21,7 @@ The Little Go Book is a free introduction to Google's Go programming language. I
 
 ### [An Introduction to Programming in Go](http://www.golang-book.com/) *Free*
 
-<img src="http://www.golang-book.com/public/img/intro/cover.0.png" width="120px"/>
+<img src="http://www.golang-book.com/public/img/intro/cover.4194045234.png" width="120px"/>
 
 This book is a short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
 
@@ -34,6 +34,8 @@ This book is free to [read online](http://www.golang-book.com/) or [pdf form](ht
 This companion book contains material initially written specifically for this event as well as content from Google & the Go team under Creative Commons Attribution 3.0 License and code licensed under a BSD license.
 
 ### [Learning Go](http://www.miek.nl/go) *Free*
+
+<img src="https://www.miek.nl/go/fig/bumper-inverse.png" width="120px"/>
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
@@ -53,7 +55,7 @@ Go in Action introduces the Go language, guiding you from inquisitive developer 
 
 ### [Go Programming Blueprints - 2nd Ed.](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
 
-<img src="https://www.packtpub.com/sites/default/files/B05569.png" width="120px"/>
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05569.png" width="120px"/>
 
 This book shows you how to build powerful systems and drops you into real-world situations. Scale, performance, and high availability lie at the heart of our projects, and the lessons learned throughout this book will arm you with everything you need to build world-class solutions.
 
@@ -160,11 +162,11 @@ Tested, easy-to-adapt code examples illuminate every step of Go development, hel
 
 ### [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
  
-<img src="https://www.packtpub.com/sites/default/files/B05557.png" width="120px"/>
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05557.png" width="120px"/>
 
 Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD.
 
-### [Go Reactive Programming](https://www.packtpub.com/application-development/go-reactive-programming)
+### [Go Reactive Programming](https://www.packtpub.com)
 
 <img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06127_MockupCover.png" width="120px"/>
 
@@ -231,7 +233,7 @@ Today, companies and developers need to respond to changing markets at breakneck
 
 ### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://gumroad.com/l/web-development-with-go)
 
-<a href="https://gum.co/web-development-with-go"><img src="http://www.calhoun.io/static/Cover300ppi.png" width="120px"/></a>
+<a href="https://static-2.gumroad.com/res/gumroad/9387844778319/asset_previews/7446424985b5f9cb53689105d297021d/retina/Cover300ppi.png" width="120px"/></a>
 
 Web Development with Go was written to teach both beginners and experts how to create and deploy a real web application. You won't be building a boilerplate TODO list, but will instead be creating and deploying a production ready photo gallery application, similar to Pixieset, from scratch. The book assumes no previous web development experience and covers everything you need to know to successfully build your own web application.
 
@@ -243,7 +245,7 @@ This course is an invaluable resource to help you understand Go's powerful featu
 
 ### [Building Microservices with Go](https://www.packtpub.com/application-development/building-microservices-go)
 
-<img src="https://www.packtpub.com/sites/default/files/B05528.png" width="120px"/>
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05528.png" width="120px"/>
 
 Whether you are planning a new application or working in an existing monolith, this book will explain and illustrate with practical examples how teams of all sizes can start solving problems with microservices. It will help you understand Docker and Docker-Compose and how it can be used to isolate microservice dependencies and build environments. We finish off by showing you various techniques to monitor, test, and secure your microservices.
 
