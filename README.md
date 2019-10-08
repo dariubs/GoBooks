@@ -282,6 +282,7 @@ Resources
 ### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books)
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 ### [Coursera Specialization : Programming with Go](https://www.coursera.org/specializations/google-golang/)
+### [Course : Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming)
 
 Contributing
 ====
