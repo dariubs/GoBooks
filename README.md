@@ -166,12 +166,6 @@ Tested, easy-to-adapt code examples illuminate every step of Go development, hel
 
 Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD.
 
-### [Go Reactive Programming](https://www.packtpub.com)
-
-<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06127_MockupCover.png" width="120px"/>
-
-Build concurrent, easy-to-maintain responsive applications in Go.
-
 ### [Black Hat Go](https://www.nostarch.com/blackhatgo)
 
 [<img src="https://www.nostarch.com/sites/default/files/styles/uc_product_full/public/bhg_cover-front.png" width="120px"/>](https://www.nostarch.com/blackhatgo)
