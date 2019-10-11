@@ -202,6 +202,12 @@ A good resource for start Building Web Apps with Go. Free to [read online](http:
 
 Another awesome book for learning Web Development in Golang. Free to [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
+### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
+
+<img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
+
+This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that you'll learn a lot when you code without a framework.
+
 ### [Mastering Go Web Services ](http://shop.oreilly.com/product/9781783981304.do)
 
 <img src="http://akamaicovers.oreilly.com/images/9781783981304/lrg.jpg" width="120px"/>
@@ -221,12 +227,6 @@ At each step, you’ll get advice for better coding in Go. You’ll see how to s
 <img src="http://www.manning.com/chang/chang_cover150.jpg" width="120px"/>
 
 Go Web Programming teaches you how to build web applications in Go using modern design principles. You'll work through numerous examples that introduce core concepts like processing requests and sending responses, template engines, and data persistence. You'll also dive into more advanced topics, such as concurrency, web application testing and deployment both to barebones servers and PaaS providers.
-
-### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
-
-<img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
-
-This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that you'll learn a lot when you code without a framework.
 
 ### [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797)
 
@@ -281,8 +281,8 @@ Resources
 ### [Go Fundamentals Video Training](http://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 ### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books)
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
-### [Coursera Specialization : Programming with Go](https://www.coursera.org/specializations/google-golang/)
-### [Course : Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming)
+### [Coursera Specialization: Programming with Go](https://www.coursera.org/specializations/google-golang/)
+### [Course: Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming)
 
 Contributing
 ====
