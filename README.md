@@ -128,6 +128,10 @@ With this book you'll learn to use Go, taking advantage of it's multi-threaded n
 
 A short guide to Test-driven development in golang. free to [read online](https://leanpub.com/golang-tdd/read).
 
+### [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/) *Free*
+
+The main goal of this book is to help developers avoid common mistakes while at the same time, learning a new programming language through a "hands-on approach". This book provides a good level of detail on "how to do it securely" showing what kind of security problems could arise during development.
+
 ### [Network Programming with Go](https://www.apress.com/us/book/9781484226919)
 
 <img src="https://images.springer.com/sgw/books/medium/9781484226919.jpg" width="120px"/>
@@ -171,10 +175,6 @@ Learn idiomatic, efficient, clean, and extensible Go design and concurrency patt
 [<img src="https://www.nostarch.com/sites/default/files/styles/uc_product_full/public/bhg_cover-front.png" width="120px"/>](https://www.nostarch.com/blackhatgo)
 
 In Black Hat Go, you'll learn how to write powerful and effective penetration testing tools in Go, a language revered for its speed and scalability. Start off with an introduction to Go fundamentals like data types, control structures, and error handling; then, dive into the deep end of Go’s offensive capabilities.
-
-### [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/) *Free*
-
-The main goal of this book is to help developers avoid common mistakes while at the same time, learning a new programming language through a "hands-on approach". This book provides a good level of detail on "how to do it securely" showing what kind of security problems could arise during development.
 
 ### [Concurrency in Go](http://shop.oreilly.com/product/0636920046189.do)
 
