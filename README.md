@@ -172,7 +172,7 @@ Learn idiomatic, efficient, clean, and extensible Go design and concurrency patt
 
 ### [Black Hat Go](https://www.nostarch.com/blackhatgo)
 
-[<img src="https://www.nostarch.com/sites/default/files/styles/uc_product_full/public/bhg_cover-front.png" width="120px"/>](https://www.nostarch.com/blackhatgo)
+[<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/BHG_frcvr.png?itok=wLh62MKg" width="120px"/>](https://www.nostarch.com/blackhatgo)
 
 In Black Hat Go, you'll learn how to write powerful and effective penetration testing tools in Go, a language revered for its speed and scalability. Start off with an introduction to Go fundamentals like data types, control structures, and error handling; then, dive into the deep end of Go’s offensive capabilities.
 
