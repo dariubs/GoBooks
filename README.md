@@ -51,7 +51,7 @@ This book helps Javascripters become Gophers. Outlining the differences between 
 
 <img src="https://raw.githubusercontent.com/quii/learn-go-with-tests/master/epub-cover-small.png" width="120px"/>
 
-Learn Go guided by tests. Write a test, learn a new Go language feature, refactor and repeat. You'll get a grounding in test-driven development and importantly understand the principles behind it. 
+Learn Go guided by tests. Write a test, learn a new Go language feature to make it pass, refactor and repeat. You'll get a grounding in test-driven development and importantly understand the principles behind it. 
 
 ### [Go in Action](https://www.manning.com/books/go-in-action)
 
