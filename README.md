@@ -47,6 +47,12 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 This book helps Javascripters become Gophers. Outlining the differences between these languages makes it easier to switch back and forth, and can help mitigate potential issues when doing so.
 
+### [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/) *Free*
+
+<img src="https://raw.githubusercontent.com/quii/learn-go-with-tests/master/epub-cover-small.png" width="120px"/>
+
+Learn Go guided by tests. Write a test, learn a new Go language feature, refactor and repeat. You'll get a grounding in test-driven development and importantly understand the principles behind it. 
+
 ### [Go in Action](https://www.manning.com/books/go-in-action)
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
