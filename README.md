@@ -192,6 +192,15 @@ Of the six methods introduced in this book, some are conventional, such as const
 
 Hands-On Dependency Injection in Go takes a pragmatic approach and focuses heavily on the code, user experience, and how to achieve long-term benefits through incremental changes.
 
+### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) **Free**
+
+<img src="https://raw.githubusercontent.com/blasrodri/spaceship-go/master/src/img/cover.svg" width="120px"/>
+
+Spaceship Go is a journey to Go's Standard Library. Several key packages are explored in order to understand
+why they are useful, and also how they are implemented under the hood. It serves as a reference of some key
+available tools and primitives offered by the language, which can be very helpful to write performant and idiomatic
+code.
+
 **Web Development**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
