@@ -127,6 +127,10 @@ Solve your Go problems using a problem-solution approach. Each recipe is a self-
 
 With this book you'll learn to use Go, taking advantage of it's multi-threaded nature, and typed syntax. Starting your API implementation in Go is your first step towards what a rock solid API should be.
 
+### [How to Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
+
+This book is designed to introduce you to writing programs with the Go programming language. You’ll learn how to write useful tools and applications that can run on remote servers, or local Windows, macOS, and Linux systems for development. Available in [epub](https://assets.digitalocean.com/books/how-to-code-in-go.epub) and [pdf](https://assets.digitalocean.com/books/how-to-code-in-go.pdf).
+
 **Advanced Books**
 ---
 
