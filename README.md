@@ -299,6 +299,15 @@ a solid framework to use as the starting point for future projects.
 
 Let's Go teaches you step-by-step how to create fast, secure and maintainable web applications using Go. It guides you through the start-to-finish build of a real-world application — covering topics like how to structure your code, manage dependencies, authenticate and authorize users, secure your server and test your application.
 
+### [Go Brain Teasers](https://gum.co/Qkmou)
+
+<img src="https://static-2.gumroad.com/res/gumroad/4733400574449/asset_previews/f58ea23cad3344595c2e73acdae29848/retina/cover2.png" width="120px"/>
+
+The Go programming language is a simple one, but like all other languages it has its quirks. This book uses these quirks as a teaching opportunity. By understanding the gaps in your knowledge - you'll become better at what you do.
+
+This book contains 25 mind bending quizzes and answers. You can view a sample chapter [here](https://www.353solutions.com/go-brain-teasers).
+
+
 Resources
 ====
 
