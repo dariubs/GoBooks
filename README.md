@@ -275,6 +275,7 @@ Let's Go teaches you step-by-step how to create fast, secure and maintainable we
 Resources
 ====
 
+### [Golang tutorial resources](https://webia.io/topic/golang-learning-resources)
 ### [A tour of Go](https://tour.golang.org/)
 ### [Video: Learn Go Syntax in one video](http://www.youtube.com/watch?v=CF9S4QZuV30)
 ### [Tutorials: Go by Example](https://gobyexample.com/)
