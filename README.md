@@ -131,6 +131,12 @@ With this book you'll learn to use Go, taking advantage of it's multi-threaded n
 
 This book is designed to introduce you to writing programs with the Go programming language. You’ll learn how to write useful tools and applications that can run on remote servers, or local Windows, macOS, and Linux systems for development. Available in [epub](https://assets.digitalocean.com/books/how-to-code-in-go.epub) and [pdf](https://assets.digitalocean.com/books/how-to-code-in-go.pdf).
 
+### [For the Love of Go: Fundamentals](https://bitfieldconsulting.com/books/fundamentals)
+
+<a href="https://bitfieldconsulting.com/books/fundamentals"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1600164215221-HLMVVYHID6RTDEXHKKGO/ke17ZwdGBToddI8pDm48kPJXHKy2-mnvrsdpGQjlhod7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmrMDYraMJMCQwFxTSOIP7LpSBEQpA-g5k6VTjWbSuadHJq0dp98hg5AZvIaPb3DoM/cover.png" width="120px"/></a>
+
+This downloadable ebook is an interactive introduction to the Go programming language, suitable for complete beginners. It introduces the Test-Driven Development (TDD) workflow in Go and guides you through implementing a complete Go package, test-first. You'll learn about testing with multiple cases, and how to test functions which can return errors.
+
 **Advanced Books**
 ---
 
