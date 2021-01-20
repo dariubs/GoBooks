@@ -206,6 +206,15 @@ This Golang book distills industry best practices for writing lean Go code that 
 
 You’ll learn about various cutting-edge and advanced software engineering techniques such as building extensible data processing pipelines, designing APIs using gRPC, and running distributed graph processing algorithms at scale.  Finally, you’ll learn how to compile and package your Go services using Docker and automate their deployment to a Kubernetes cluster.
 
+### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) **Free**
+
+<img src="https://raw.githubusercontent.com/blasrodri/spaceship-go/master/src/img/cover.svg" width="120px"/>
+
+Spaceship Go is a journey to Go's Standard Library. Several key packages are explored in order to understand
+why they are useful, and also how they are implemented under the hood. It serves as a reference of some key
+available tools and primitives offered by the language, which can be very helpful to write performant and idiomatic
+code.
+
 **Web Development**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
