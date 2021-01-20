@@ -172,7 +172,7 @@ Learn idiomatic, efficient, clean, and extensible Go design and concurrency patt
 
 ### [Black Hat Go](https://www.nostarch.com/blackhatgo)
 
-[<img src="https://www.nostarch.com/sites/default/files/styles/uc_product_full/public/bhg_cover-front.png" width="120px"/>](https://www.nostarch.com/blackhatgo)
+[<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/BHG_frcvr.png?itok=wLh62MKg" width="120px"/>](https://www.nostarch.com/blackhatgo)
 
 In Black Hat Go, you'll learn how to write powerful and effective penetration testing tools in Go, a language revered for its speed and scalability. Start off with an introduction to Go fundamentals like data types, control structures, and error handling; then, dive into the deep end of Go’s offensive capabilities.
 
@@ -275,6 +275,7 @@ Let's Go teaches you step-by-step how to create fast, secure and maintainable we
 Resources
 ====
 
+### [Golang tutorial resources](https://webia.io/topic/golang-learning-resources)
 ### [A tour of Go](https://tour.golang.org/)
 ### [Video: Learn Go Syntax in one video](http://www.youtube.com/watch?v=CF9S4QZuV30)
 ### [Tutorials: Go by Example](https://gobyexample.com/)
@@ -283,6 +284,7 @@ Resources
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 ### [Coursera Specialization: Programming with Go](https://www.coursera.org/specializations/google-golang/)
 ### [Course: Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming)
+### [Course: Web Development with Google’s Go Programming Language](https://www.udemy.com/course/go-programming-language)
 ### [Golangbot.com Articles](https://golangbot.com/)
 
 Contributing
