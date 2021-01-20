@@ -285,6 +285,7 @@ Resources
 ### [Coursera Specialization: Programming with Go](https://www.coursera.org/specializations/google-golang/)
 ### [Course: Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming)
 ### [Course: Web Development with Google’s Go Programming Language](https://www.udemy.com/course/go-programming-language)
+### [Golangbot.com Articles](https://golangbot.com/)
 
 Contributing
 ====
