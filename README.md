@@ -137,6 +137,12 @@ This book is designed to introduce you to writing programs with the Go programmi
 
 This downloadable ebook is an interactive introduction to the Go programming language, suitable for complete beginners. It introduces the Test-Driven Development (TDD) workflow in Go and guides you through implementing a complete Go package, test-first. You'll learn about testing with multiple cases, and how to test functions which can return errors.
 
+### [The Go Workshop](https://www.packtpub.com/product/the-go-workshop/9781838647940)
+
+<a href="https://www.packtpub.com/product/the-go-workshop/9781838647940"><img src="https://images-na.ssl-images-amazon.com/images/I/61ibSG7yEXL.jpg"/></a>
+
+The Go Workshop will take the pain out of learning the Go programming language (also known as Golang). It is designed to teach you to be productive in building real-world software. Presented in an engaging, hands-on way, this book focuses on the features of Go that are used by professionals in their everyday work.
+
 **Advanced Books**
 ---
 
