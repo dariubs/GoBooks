@@ -170,7 +170,7 @@ This book will take you through the history of concurrency, how Go utilizes it, 
 
 ### [Go in Practice](http://www.manning.com/butcher/)
 
-<img src="http://www.manning.com/butcher/butcher_cover150.jpg" width="120px"/>
+<img src="https://images.manning.com/360/480/resize/book/4/cd81ad9-b07a-4f57-8aa2-9b4c8cede836/Butcher-GoinP-HI.png" width="120px"/>
 
 Go in Practice guides you through dozens of real-world techniques in key areas like package management, microservice communication, and more. Following a cookbook-style Problem/Solution/Discussion format, this practical handbook builds on the foundational concepts of the Go language and introduces specific strategies you can use in your day-to-day applications. You'll learn techniques for building web services, using Go in the cloud, testing and debugging, routing, network applications, and much more.
 
