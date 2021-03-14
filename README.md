@@ -263,7 +263,7 @@ At each step, you’ll get advice for better coding in Go. You’ll see how to s
 
 ### [Go Web Programming](http://www.manning.com/chang/)
 
-<img src="http://www.manning.com/chang/chang_cover150.jpg" width="120px"/>
+<img src="https://images.manning.com/360/480/resize/book/9/908c77b-4a21-488b-b992-cf2ddeb678f0/Chang-GWP-HI.png" width="120px"/>
 
 Go Web Programming teaches you how to build web applications in Go using modern design principles. You'll work through numerous examples that introduce core concepts like processing requests and sending responses, template engines, and data persistence. You'll also dive into more advanced topics, such as concurrency, web application testing and deployment both to barebones servers and PaaS providers.
 
