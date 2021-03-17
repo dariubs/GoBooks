@@ -329,6 +329,14 @@ This book is a hands-on guide packed full of interesting DIY projects that will 
 
 By the end of this microcontroller book, you will be equipped with the skills you need to build real-world embedded projects using the power of TinyGo.
 
+### [Mastering Go, 2nd edition](https://www.packtpub.com/programming/mastering-go-second-edition)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51qLY7bIGAL._SX403_BO1,204,203,200_.jpg" width="120px"/>
+
+This book is for amateur and intermediate Go programmers who want to take their Go knowledge to the next level, as well as experienced developers in other programming languages who want to learn Go without learning again how a `for` loop works.
+
+The book presents relatively small yet complete Go programs that illustrate the presented concepts. This has two main advantages: firstly, you do not have to look at an endless code listing when trying to learn a single technique and secondly, you can use this code as a starting point when creating your own applications and utilities.
+
 Resources
 ====
 
