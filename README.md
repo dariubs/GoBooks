@@ -154,6 +154,16 @@ A short guide to Test-driven development in golang. free to [read online](https:
 
 The main goal of this book is to help developers avoid common mistakes while at the same time, learning a new programming language through a "hands-on approach". This book provides a good level of detail on "how to do it securely" showing what kind of security problems could arise during development.
 
+### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*
+
+<img src="https://threedots.tech/img/go-with-domain-cover-160-retina.png" width="120px"/>
+
+*Go with the Domain* is a book about building applications that solve complex problems in an idiomatic way.
+It features techniques like Domain-Driven Design, Clean Architecture, CQRS, and other patterns.
+
+The book is based on a [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
+Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
+
 ### [Network Programming with Go](https://www.apress.com/us/book/9781484226919)
 
 <img src="https://images.springer.com/sgw/books/medium/9781484226919.jpg" width="120px"/>
