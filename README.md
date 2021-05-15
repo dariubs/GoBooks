@@ -159,7 +159,7 @@ The main goal of this book is to help developers avoid common mistakes while at 
 <a href="https://threedots.tech/go-with-the-domain/"><img src="https://threedots.tech/img/go-with-domain-cover-160-retina.png" width="120px"/></a>
 
 *Go with the Domain* is a book on building Go applications that solve complex problems in an idiomatic way.
-It features techniques like Domain-Driven Design, Clean Architecture, CQRS, and other patterns.
+It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
 
 The book is based on a [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
