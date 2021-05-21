@@ -347,6 +347,12 @@ This book is for amateur and intermediate Go programmers who want to take their 
 
 The book presents relatively small yet complete Go programs that illustrate the presented concepts. This has two main advantages: firstly, you do not have to look at an endless code listing when trying to learn a single technique and secondly, you can use this code as a starting point when creating your own applications and utilities.
 
+### [Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems](https://pragprog.com/titles/tjgo/distributed-services-with-go/)
+
+<img src="https://pragprog.com/titles/tjgo/distributed-services-with-go/tjgo.jpg" width="120px"/>
+
+Take your Go skills to the next level by learning how to design, develop, and deploy a distributed service. Start from the bare essentials of storage handling, work your way through networking a client and server, turn that single-node application into a distributed system with service discovery and consensus, and then deploy your service to the cloud. All this will make coding in your day job or side projects easier, faster, and more fun.
+
 Resources
 ====
 
