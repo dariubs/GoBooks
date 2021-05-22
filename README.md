@@ -247,6 +247,16 @@ why they are useful, and also how they are implemented under the hood. It serves
 available tools and primitives offered by the language, which can be very helpful to write performant and idiomatic
 code.
 
+### [Security with Go](https://www.packtpub.com/product/security-with-go/9781788627917)
+
+<img src="https://static.packt-cdn.com/products/9781788627917/cover/smaller" width="120px"/>
+
+Security with Go is the first Golang security book, and it is useful for both blue team and red team applications. With this book, you will learn how to write secure software, monitor your systems, secure your data, attack systems, and extract information.
+
+Defensive topics include cryptography, forensics, packet capturing, and building secure web applications.
+
+Offensive topics include brute force, port scanning, packet injection, web scraping, social engineering, and post exploitation techniques.
+
 **Web Development**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
