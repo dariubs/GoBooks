@@ -178,6 +178,12 @@ Dive into key topics in network architecture and Go, such as data serialization,
 
 Beyond the fundamentals, Network Programming with Go covers key networking and security issues such as HTTP and HTTPS, templates, remote procedure call (RPC), web sockets including HTML5 web sockets, and more.
 
+### [Network Programming with Go](https://nostarch.com/networkprogrammingwithgo)
+
+<img src="https://images3.penguinrandomhouse.com/cover/9781718500884" width="120px"/>
+
+Network Programming with Go will help you leverage Go to write secure, readable, production-ready network code. Network Programming with Go is all you'll need to take advantage of Go's built-in concurrency, rapid compiling, and rich standard library.
+
 ### [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do)
 
 <img src="http://akamaicovers.oreilly.com/images/9781783983483/lrg.jpg" width="120px"/>
