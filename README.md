@@ -59,6 +59,16 @@ Learn Go guided by tests. Write a test, learn a new Go language feature to make 
 
 Go 101 is a book focusing on Go syntax/semantics and all kinds of runtime related things (Go 1.17-pre ready) and tries to help gophers gain a deep and thorough understanding of Go. This book also collects many details of Go and in Go programming. It is expected that this book is helpful for both beginner and experienced Go programmers.
 
+### [Practical Go Lessons](https://www.practical-go-lessons.com/) *Free*
+
+<img src="https://www.practical-go-lessons.com/book-cover.png" width="120px"/>
+
+Practical Go Lessons has 41 chapters and more than 700 pages with illustrations.
+It is suitable for anybody how wants to start programming with the Go language.
+It assumes no prior knowledge. 
+Each chapter contains test questions with detailed answers.
+The HTML version is free. You can support the author by buying the PDF or Paper version.
+
 ### [Go in Action](https://www.manning.com/books/go-in-action)
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
