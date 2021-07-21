@@ -159,6 +159,23 @@ This downloadable ebook is an interactive introduction to the Go programming lan
 
 The Go Workshop will take the pain out of learning the Go programming language (also known as Golang). It is designed to teach you to be productive in building real-world software. Presented in an engaging, hands-on way, this book focuses on the features of Go that are used by professionals in their everyday work.
 
+
+### [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.oreilly.com/library/view/learning-go/9781492077206/)
+
+<img src="https://learning.oreilly.com/library/cover/9781492077206/250w/" width="120px"/>
+
+Go is rapidly becoming the preferred language for building web services. While there are plenty of tutorials available that teach Go's syntax to developers with experience in other programming languages, tutorials aren't enough. They don't teach Go's idioms, so developers end up recreating patterns that don't make sense in a Go context. This practical guide provides the essential background you need to write clear and idiomatic Go.
+
+No matter your level of experience, you'll learn how to think like a Go developer. Author Jon Bodner introduces the design patterns experienced Go developers have adopted and explores the rationale for using them. You'll also get a preview of Go's upcoming generics support and how it fits into the language.
+
+- Learn how to write idiomatic code in Go and design a Go project
+- Understand the reasons for the design decisions in Go
+- Set up a Go development environment for a solo developer or team
+- Learn how and when to use reflection, unsafe, and cgo
+- Discover how Go's features allow the language to run efficiently
+- Know which Go features you should use sparingly or not at all
+
+
 **Advanced Books**
 ---
 
