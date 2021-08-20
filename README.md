@@ -415,6 +415,13 @@ Take your Go skills to the next level by learning how to design, develop, and de
 The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
 
 
+### [Mastering Go, 3rd edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
+
+<img src="https://raw.githubusercontent.com/mactsouk/mastering-Go-3rd/main/B17194.png" width="120px"/>
+
+This is the 3rd edition of Mastering Go. There exist many exciting new topics in this latest edition including writing RESTful services, working with the Websocket protocol, using GitHub Actions and GitLab Actions for Go projects as well as an entirely new chapter on Generics and the development of lots of practical utilities. You can find the book FAQ [here](https://www.mtsoukalos.eu/2021/08/mastering-go-3rd-faq/) and the TOC [here](https://www.mtsoukalos.eu/2021/08/mastering-go-3rd-edition-toc/).
+
+
 Resources
 ====
 
