@@ -394,14 +394,6 @@ This book is a hands-on guide packed full of interesting DIY projects that will 
 
 By the end of this microcontroller book, you will be equipped with the skills you need to build real-world embedded projects using the power of TinyGo.
 
-### [Mastering Go, 2nd edition](https://www.packtpub.com/programming/mastering-go-second-edition)
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/51qLY7bIGAL._SX403_BO1,204,203,200_.jpg" width="120px"/>
-
-This book is for amateur and intermediate Go programmers who want to take their Go knowledge to the next level, as well as experienced developers in other programming languages who want to learn Go without learning again how a `for` loop works.
-
-The book presents relatively small yet complete Go programs that illustrate the presented concepts. This has two main advantages: firstly, you do not have to look at an endless code listing when trying to learn a single technique and secondly, you can use this code as a starting point when creating your own applications and utilities.
-
 ### [Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems](https://pragprog.com/titles/tjgo/distributed-services-with-go/)
 
 <img src="https://pragprog.com/titles/tjgo/distributed-services-with-go/tjgo.jpg" width="120px"/>
@@ -414,6 +406,11 @@ Take your Go skills to the next level by learning how to design, develop, and de
 
 The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
 
+### [Mastering Go, 3rd edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
+
+<img src="https://raw.githubusercontent.com/mactsouk/mastering-Go-3rd/main/B17194.png" width="120px"/>
+
+This is the 3rd edition of Mastering Go. There exist many exciting new topics in this latest edition including writing RESTful services, working with the Websocket protocol, using GitHub Actions and GitLab Actions for Go projects as well as an entirely new chapter on Generics and the development of lots of practical utilities. You can find the book FAQ [here](https://www.mtsoukalos.eu/2021/08/mastering-go-3rd-faq/) and the TOC [here](https://www.mtsoukalos.eu/2021/08/mastering-go-3rd-edition-toc/).
 
 Resources
 ====
