@@ -290,6 +290,30 @@ Defensive topics include cryptography, forensics, packet capturing, and building
 
 Offensive topics include brute force, port scanning, packet injection, web scraping, social engineering, and post exploitation techniques.
 
+### [Writing An Interpreter In Go](https://interpreterbook.com/)
+
+<img src="https://interpreterbook.com/img/cover-cb2da3d1.png" width="120px"/>
+
+In this book we will create a programming language together.
+
+We'll start with 0 lines of code and end up with a fully working interpreter for the Monkey* programming language.
+
+Step by step. From tokens to output. All code shown and included. Fully tested.
+
+### [Writing A Compiler In Go](https://compilerbook.com/)
+
+<img src="https://compilerbook.com/images/cover-514e0936.png" width="120px"/>
+
+This is the sequel to Writing An Interpreter In Go.
+
+We're picking up right where we left off and write a compiler and a virtual machine for Monkey.
+
+Runnable and tested code front and center, built from the ground up, step by step — just like before.
+
+But this time, we're going to define bytecode, compile Monkey and execute it in our very own virtual machine.
+
+It's the next step in Monkey's evolution.
+
 **Web Development**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
