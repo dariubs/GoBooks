@@ -314,6 +314,16 @@ But this time, we're going to define bytecode, compile Monkey and execute it in 
 
 It's the next step in Monkey's evolution.
 
+### [Ultimate Go Notebook](https://courses.ardanlabs.com/courses/ultimate-go-notebook)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/411o0BkQoQL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="120px"/>
+
+The Ultimate Go Notebook is the official companion book for the Ardan Labs Ultimate Go class. 
+
+With this book, you will learn how to write more idiomatic and performant code with a focus on micro-level engineering decisions. 
+
+This notebook has been designed to provide a reference to everything mentioned in class, as if they were your own personal notes.
+
 **Web Development**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
