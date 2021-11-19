@@ -335,6 +335,14 @@ With this book, you will learn how to write more idiomatic and performant code w
 
 This notebook has been designed to provide a reference to everything mentioned in class, as if they were your own personal notes.
 
+### [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/)
+
+<img src="https://learning.oreilly.com/library/cover/9781098105709/250w/" width="120px"/>
+
+Software engineers today typically put performance optimizations low on the list of development priorities. But despite significant technological advancements and lower-priced hardware, software efficiency still matters. With this book, Go programmers will learn how to approach performance topics for applications written in this open source language.
+
+How and when should you apply performance efficiency optimization without wasting your time? Authors Bartlomiej Plotka and Frederic Branczyk provide the tools and knowledge you need to make your system faster using fewer resources. Once you learn how to address performance in your Go applications, you'll be able to bring small but effective habits to your programming and development cycle.
+
 **Web Development**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
