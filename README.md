@@ -343,6 +343,14 @@ Software engineers today typically put performance optimizations low on the list
 
 How and when should you apply performance efficiency optimization without wasting your time? Authors Bartlomiej Plotka and Frederic Branczyk provide the tools and knowledge you need to make your system faster using fewer resources. Once you learn how to address performance in your Go applications, you'll be able to bring small but effective habits to your programming and development cycle.
 
+### [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools)
+
+<img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1637343170143-XPC7BV7IZDWTUDW8KHBH/cover.png?format=120w" width="120px"/>
+
+Go is a popular choice for writing DevOps and systems programs, and command-line tools in particular. How can we write simple, powerful, idiomatic, and even beautiful tools in Go? This book covers all the necessary techniques: functional options, flags and arguments, files and filesystems, executing commands, writing shells and pipelines, JSON and YAML wrangling, and even sophisticated API clients. 
+
+Even more importantly, the book teaches you how to _think_ like a master software engineer: how to break down problems into manageable chunks, how to test functions before they're written, and how to design Go CLIs that delight users.
+
 **Web Development**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
