@@ -1,4 +1,4 @@
-Awesome Go Books [![Build Status](https://travis-ci.org/dariubs/GoBooks.svg?branch=master)](https://travis-ci.org/dariubs/GoBooks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Go Books [![Build Status](https://github.com/dariubs/GoBooks/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/dariubs/GoBooks/actions/workflows/main.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 * [Books](#books)
  * [Starter Books](#starter-books)
@@ -13,9 +13,9 @@ Awesome Go Books [![Build Status](https://travis-ci.org/dariubs/GoBooks.svg?bran
 **Starter Books**
 ----
 
-### [The Little Go Book](http://openmymind.net/The-Little-Go-Book/) *Free*
+### [The Little Go Book](https://www.openmymind.net/The-Little-Go-Book/) *Free*
 
-<img src="http://openmymind.net/assets/go/title.png" width="120px"/>
+<img src="https://www.openmymind.net/assets/go/title.png" width="120px"/>
 
 The Little Go Book is a free introduction to Google's Go programming language. It's aimed at developers who might not be quite comfortable with the idea of pointers and static typing. It's longer than the other Little books, but hopefully still captures that little feeling.
 
@@ -107,9 +107,9 @@ Source code is freely available for download from the book's companion web site
 [gopl.io](http://gopl.io/),
 and may be conveniently fetched, built, and installed using the `go get` command.
 
-### [Introducing Go: Build Reliable, Scalable Programs](http://shop.oreilly.com/product/0636920046516.do)
+### [Introducing Go: Build Reliable, Scalable Programs](https://www.oreilly.com/library/view/introducing-go/9781491941997/)
 
-<a href="http://shop.oreilly.com/product/0636920046516.do"><img src="http://akamaicovers.oreilly.com/images/0636920046516/lrg.jpg" width="120px"/></a>
+<a href="https://www.oreilly.com/library/view/introducing-go/9781491941997/"><img src="https://learning.oreilly.com/library/cover/9781491941997/250w/" width="120px"/></a>
 
 Perfect for beginners familiar with programming basics, this hands-on guide provides an easy introduction to Go, the general-purpose programming language from Google. Author Caleb Doxsey covers the language's core features with step-by-step instructions and exercises in each chapter to help you practice what you learn.
 
@@ -125,9 +125,9 @@ Perfect for beginners familiar with programming basics, this hands-on guide prov
 
 Go, commonly referred to as golang, is a programming language initially developed at Google in 2007. This book helps you to get started with Go programming. It describes all the elements of the language and illustrates their use with code examples.
 
-### [Go Recipes](http://www.apress.com/us/book/9781484211892)
+### [Go Recipes](https://link.springer.com/book/10.1007/978-1-4842-1188-5)
 
-<a href="http://www.apress.com/us/book/9781484211892"><img src="https://images.springer.com/sgw/books/medium/9781484211892.jpg" width="120px"/></a>
+<a href="https://link.springer.com/book/10.1007/978-1-4842-1188-5"><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-1188-5" width="120px"/></a>
 
 Solve your Go problems using a problem-solution approach. Each recipe is a self-contained answer to a practical programming problem in Go. Go Recipes contains recipes that deal with the fundamentals of Go, allowing you to build simple, reliable, and efficient software. Other topics include working with data using modern NoSQL databases such as MongoDB and RethinkDB. The book provides in-depth guidance for building highly scalable backend APIs in Go for your mobile client applications and web client applications.
 
@@ -208,9 +208,9 @@ It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Comm
 The book is based on a [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
-### [Network Programming with Go](https://www.apress.com/us/book/9781484226919)
+### [Network Programming with Go](https://link.springer.com/book/10.1007/978-1-4842-2692-6)
 
-<img src="https://images.springer.com/sgw/books/medium/9781484226919.jpg" width="120px"/>
+<a href="https://link.springer.com/book/10.1007/978-1-4842-2692-6"><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-2692-6" width="120px"/></a>
 
 Dive into key topics in network architecture and Go, such as data serialization, application level protocols, character sets and encodings. This book covers network architecture and gives an overview of the Go language as a primer, covering the latest Go release.
 
@@ -222,9 +222,9 @@ Beyond the fundamentals, Network Programming with Go covers key networking and s
 
 Network Programming with Go will help you leverage Go to write secure, readable, production-ready network code. Network Programming with Go is all you'll need to take advantage of Go's built-in concurrency, rapid compiling, and rich standard library.
 
-### [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do)
+### [Mastering Concurrency in Go](https://www.amazon.com/Mastering-Concurrency-Go-Nathan-Kozyra/dp/1783983485)
 
-<img src="http://akamaicovers.oreilly.com/images/9781783983483/lrg.jpg" width="120px"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51ZTqE7xACL._SX404_BO1,204,203,200_.jpg" width="120px"/>
 
 This book will take you through the history of concurrency, how Go utilizes it, how Go differs from other languages, and the features and structures of Go's concurrency core. Each step of the way, the book will present real, usable examples with detailed descriptions of the methodologies used. By the end, you will feel comfortable designing a safe, data-consistent, high-performance concurrent application in Go.
 
@@ -254,7 +254,7 @@ Learn idiomatic, efficient, clean, and extensible Go design and concurrency patt
 
 ### [Black Hat Go](https://www.nostarch.com/blackhatgo)
 
-[<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/BHG_frcvr.png?itok=wLh62MKg" width="120px"/>](https://www.nostarch.com/blackhatgo)
+[<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/BHG_frontcover_REV_HM.png?itok=ns0fk-16" width="120px"/>](https://www.nostarch.com/blackhatgo)
 
 In Black Hat Go, you'll learn how to write powerful and effective penetration testing tools in Go, a language revered for its speed and scalability. Start off with an introduction to Go fundamentals like data types, control structures, and error handling; then, dive into the deep end of Go’s offensive capabilities.
 
@@ -367,15 +367,15 @@ Another awesome book for learning Web Development in Golang. Free to [read onlin
 
 This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that you'll learn a lot when you code without a framework.
 
-### [Mastering Go Web Services ](http://shop.oreilly.com/product/9781783981304.do)
+### [Mastering Go Web Services ](https://www.packtpub.com/product/mastering-go-web-services/9781783981304)
 
-<img src="http://akamaicovers.oreilly.com/images/9781783981304/lrg.jpg" width="120px"/>
+<a href="https://www.packtpub.com/product/mastering-go-web-services/9781783981304"><img src="https://static.packt-cdn.com/products/9781783981304/cover/smaller" width="120px"/></a>
 
 This book will take you through the most important aspects of designing, building, and deploying a web service utilizing idiomatic REST practices with a focus on speed, security, and flexibility. You will begin by building your first API in Go using the HTTP package. You will look at designing and building your application including popular design structures like Model-View-Controller. You will also understand methods for deploying code to staging and development. Finally, you will see how the security features in Go can be used for protection against SQL injection, and sensitive data compromise.
 
-### [Level Up Your Web Apps With Go](https://learnable.com/books/level-up-your-web-apps-with-go)
+### [Level Up Your Web Apps With Go](https://www.sitepoint.com/premium/books/level-up-your-web-apps-with-go)
 
-<img src="http://akamaicovers.oreilly.com/images/9780992461294/lrg.jpg" width="120px"/>
+<a href="https://www.sitepoint.com/premium/books/level-up-your-web-apps-with-go"><img src="https://d2sis3lil8ndrq.cloudfront.net/books/d1b5be56-17cf-4b1b-8329-4e4170514675_medium.png" width="120px"/></a>
 
 This book gives you all you need to use Go in your web applications. You’ll learn the basic concepts — language structures, the standard library, and Go tools — then tackle more advanced features like concurrency concepts, testing methodologies, and package structures.
 
@@ -394,8 +394,6 @@ Go Web Programming teaches you how to build web applications in Go using modern 
 Today, companies and developers need to respond to changing markets at breakneck speeds. Organizations that aren't built on highly-available, rapidly-evolving software are going the way of the dinosaurs. Cloud Native Go brings together the knowledge developers need to build massive-scale cloud applications that meet the insatiable demands of today's customers and markets.
 
 ### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.usegolang.com/)
-
-<a href="https://static-2.gumroad.com/res/gumroad/9387844778319/asset_previews/7446424985b5f9cb53689105d297021d/retina/Cover300ppi.png" width="120px"/></a>
 
 Web Development with Go was written to teach both beginners and experts how to create and deploy a real web application. You won't be building a boilerplate TODO list, but will instead be creating and deploying a production ready photo gallery application, similar to Pixieset, from scratch. The book assumes no previous web development experience and covers everything you need to know to successfully build your own web application.
 
@@ -439,8 +437,6 @@ Let’s Go Further helps you extend and expand your knowledge of Go — taking y
 
 ### [Go Brain Teasers](https://gum.co/Qkmou)
 
-<img src="https://static-2.gumroad.com/res/gumroad/4733400574449/asset_previews/f58ea23cad3344595c2e73acdae29848/retina/cover2.png" width="120px"/>
-
 The Go programming language is a simple one, but like all other languages it has its quirks. This book uses these quirks as a teaching opportunity. By understanding the gaps in your knowledge - you'll become better at what you do.
 
 This book contains 25 mind bending quizzes and answers. You can view a sample chapter [here](https://www.353solutions.com/go-brain-teasers).
@@ -471,7 +467,7 @@ The Go ecosystem is helping developers to build distributed and scalable systems
 
 <img src="https://raw.githubusercontent.com/mactsouk/mastering-Go-3rd/main/B17194.png" width="120px"/>
 
-This is the 3rd edition of Mastering Go. There exist many exciting new topics in this latest edition including writing RESTful services, working with the Websocket protocol, using GitHub Actions and GitLab Actions for Go projects as well as an entirely new chapter on Generics and the development of lots of practical utilities. You can find the book FAQ [here](https://www.mtsoukalos.eu/2021/08/mastering-go-3rd-faq/) and the TOC [here](https://www.mtsoukalos.eu/2021/08/mastering-go-3rd-edition-toc/).
+This is the 3rd edition of Mastering Go. There exist many exciting new topics in this latest edition including writing RESTful services, working with the Websocket protocol, using GitHub Actions and GitLab Actions for Go projects as well as an entirely new chapter on Generics and the development of lots of practical utilities.
 
 ### [Learn Data Structures and Algorithms with Golang](https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501)
 
