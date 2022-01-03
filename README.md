@@ -369,6 +369,14 @@ Write your own fast, reliable, and cross-platform command-line tools with the Go
 
 Effective Go is a practical guide to writing high-quality code that’s easy to test and maintain. The book is full of best practices to adopt and anti-patterns to dodge. It explores what makes Go so dramatically different from other languages, and how you can still leverage your existing skills into writing excellent Go code. Aimed at Go beginners looking to graduate to serious Go development, you’ll write and test command line applications, web API clients and servers, concurrent programs, and more.
 
+### [Cloud Native Go - Building Reliable Services in Unreliable Environments](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)
+
+<img src="https://learning.oreilly.com/library/cover/9781492076322/120w/" width="120px"/>
+
+What do Docker, Kubernetes, and Prometheus have in common? All of these cloud native technologies are written in the Go programming language.
+This practical book shows you how to use Go's strengths to develop cloud native services that are scalable and resilient, even in an unpredictable environment.
+You'll explore the composition and construction of these applications, from lower-level features of Go to mid-level design patterns to high-level architectural considerations.
+
 **Web Development**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
