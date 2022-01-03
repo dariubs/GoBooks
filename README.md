@@ -351,6 +351,14 @@ Go is a popular choice for writing DevOps and systems programs, and command-line
 
 Even more importantly, the book teaches you how to _think_ like a master software engineer: how to break down problems into manageable chunks, how to test functions before they're written, and how to design Go CLIs that delight users.
 
+### [Cloud Native Go - Building Reliable Services in Unreliable Environments](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)
+
+<img src="https://learning.oreilly.com/library/cover/9781492076322/120w/" width="120px"/>
+
+What do Docker, Kubernetes, and Prometheus have in common? All of these cloud native technologies are written in the Go programming language.
+This practical book shows you how to use Go's strengths to develop cloud native services that are scalable and resilient, even in an unpredictable environment.
+You'll explore the composition and construction of these applications, from lower-level features of Go to mid-level design patterns to high-level architectural considerations.
+
 **Web Development**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
