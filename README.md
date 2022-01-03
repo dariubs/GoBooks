@@ -363,7 +363,7 @@ Write your own fast, reliable, and cross-platform command-line tools with the Go
 
 100 Go Mistakes and How to Avoid Them puts a spotlight on common errors in Go code you might not even know you’re making. You’ll explore key areas of the language such as concurrency, testing, data structures, and more—and learn how to avoid and fix mistakes in your own projects.
 
-### [Effective Go](https://www.manning.com/books/effective-go?utm_source=twitter&utm_medium=organic&utm_campaign=book_gumus_effective_10_28_21)
+### [Effective Go](https://www.manning.com/books/effective-go)
 
 <img src="https://images.manning.com/360/480/resize/book/d/af5a665-64b2-45cc-9543-d072437c27c2/Gumus-MEAP-HI.png" width="120px"/>
 
