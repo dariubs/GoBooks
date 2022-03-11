@@ -510,6 +510,18 @@ This is the 3rd edition of Mastering Go. There exist many exciting new topics in
 The book begins with an introduction to Go data structures and algorithms. You'll learn how to store data using linked lists, arrays, stacks, and queues. Moving ahead, you'll discover how to implement sorting and searching algorithms, followed by binary search trees. This book will also help you improve the performance of your applications by stringing data types and implementing hash structures in algorithm design. Finally, you'll be able to apply traditional data structures to solve real-world problems.
 By the end of the book, you'll have become adept at implementing classic data structures and algorithms in Go, propelling you to become a confident Go programmer.
 
+### [Wasm Cooking with Golang](https://k33g.gumroad.com/l/wasmcooking)
+
+<img src="https://public-files.gumroad.com/variants/1s2iptp25eyxyd3mkj55bcdp0ije/4d4cb575366005157970186bb171da8f6b6b8bb857dcdd1f8e93774cc5f0900d" width="120px"/>
+
+You will learn how to generate WebAssembly applications with GoLang and run WebAssembly in your browser and out of your browser.
+
+This e-book comprises 23 complete recipes with the code examples necessary to reproduce these recipes:
+- Wasm & Go in your browser
+- Wasm & Go with Node.js
+- WasmEdge & Go
+- Wasm in the Cloud: Do you know Atmo? 
+
 Resources
 ====
 
