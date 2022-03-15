@@ -176,6 +176,18 @@ No matter your level of experience, you'll learn how to think like a Go develope
 - Know which Go features you should use sparingly or not at all
 
 
+### [Pro Go](https://link.springer.com/book/10.1007/978-1-4842-7355-5)
+
+<img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-7355-5" width="120px"/>
+
+Starting from the basics and building up to the most advanced and sophisticated features. You will learn how Go builds on a simple and consistent type system to create a comprehensive and productive development experience that produces fast and robust applications that run across platforms.
+
+- Gain a solid understanding of the Go language and tools
+- Gain in-depth knowledge of the Go standard library
+- Use Go for concurrent/parallel tasks
+- Use Go for client- and server-side development
+
+
 **Advanced Books**
 ---
 
