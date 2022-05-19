@@ -59,6 +59,20 @@ Learn Go guided by tests. Write a test, learn a new Go language feature to make 
 
 Go 101 is a book focusing on Go syntax/semantics and all kinds of runtime related things (Go 1.17-pre ready) and tries to help gophers gain a deep and thorough understanding of Go. This book also collects many details of Go and in Go programming. It is expected that this book is helpful for both beginner and experienced Go programmers.
 
+### [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free*
+<img src="https://d2sofvawe08yqg.cloudfront.net/go-from-the-beginning/s_hero?1651955611" width="120px">
+
+In this book you will learn the following:
+
+- Build Console apps
+- Create Web APIs
+- Test your code
+- Create and publish reusable packages that others can consume
+- Organize your files in a project
+- Work with files and directories
+- Parse text with the string library and regular expressions.
+
+
 ### [Practical Go Lessons](https://www.practical-go-lessons.com/) *Free*
 
 <img src="https://www.practical-go-lessons.com/book-cover.png" width="120px"/>
