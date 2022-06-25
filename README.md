@@ -201,6 +201,15 @@ Starting from the basics and building up to the most advanced and sophisticated 
 - Use Go for concurrent/parallel tasks
 - Use Go for client- and server-side development
 
+### [Go for DevOps](https://www.packtpub.com/product/go-for-devops/9781801818896)
+
+<img src="https://static.packt-cdn.com/products/9781801818896/cover/smaller" width="120px"/>
+
+Go is the go-to language for DevOps libraries and services, and without it, achieving fast and safe automation is a challenge. With the help of Go for DevOps, you'll learn how to deliver services with ease and safety, becoming a better DevOps engineer in the process.
+
+Some of the key things this book will teach you are how to write Go software to automate configuration management, update remote machines, author custom automation in GitHub Actions, and interact with Kubernetes. As you advance through the chapters, you'll explore how to automate the cloud using software development kits (SDKs), extend HashiCorp's Terraform and Packer using Go, develop your own DevOps services with gRPC and REST, design system agents, and build robust workflow systems.
+
+By the end of this Go for DevOps book, you'll understand how to apply development principles to automate operations and provide operational insights using Go, which will allow you to react quickly to resolve system failures before your customers realize something has gone wrong.
 
 **Advanced Books**
 ---
