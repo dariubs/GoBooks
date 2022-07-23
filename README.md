@@ -439,6 +439,28 @@ This book is a compilation of practical examples, lessons and techniques for Go 
 - Ship it with Docker
 - Work out Goroutines
 
+
+### [Practical Go: Building Scalable Network and Non-Network Applications](https://practicalgobook.net)
+
+<img src="https://practicalgobook.net/book_cover.jpg" width="120px"/>
+
+In Practical Go - Building Scalable Network + Non-Network Applications, you will learn to use the Go programming language to build robust, production-ready software applications. You will learn just enough to building command line tools and applications communicating over HTTP and gRPC.
+
+This practical guide will cover:
+
+ - Writing command line applications
+ - Writing a HTTP services and clients
+ - Writing RPC services and clients using gRPC
+ - Writing middleware for network clients and servers
+ - Storing data in cloud object stores and SQL databases
+ - Testing your applications using idiomatic techniques
+ - Adding observability to your applications
+ - Managing configuration data from your applications
+
+You will learn to implement best practices using hands-on examples written with modern practices in mind. With its focus on using 
+the standard library packages as far as possible, Practical Go will give you a solid foundation for developing large applications 
+using Go leveraging the best of the language’s ecosystem.
+
 **Web Development**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
