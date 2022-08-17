@@ -598,7 +598,7 @@ This e-book comprises 23 complete recipes with the code examples necessary to re
 - WasmEdge & Go
 - Wasm in the Cloud: Do you know Atmo? 
 
-### [Generative Art in Go]([BOOK URL](https://p5v.gumroad.com/l/generative-art-in-golang))
+### [Generative Art in Go](https://p5v.gumroad.com/l/generative-art-in-golang)
 
 <img src="https://preslav.me/img/pages/generative-art-in-golang/book-cover_hu28601a535f0407a9b32fcb414631175c_63095_1320x0_resize_q75_box.jpg" width="120px"/>
 
