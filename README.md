@@ -163,7 +163,7 @@ This book is designed to introduce you to writing programs with the Go programmi
 
 ### [For the Love of Go](https://bitfieldconsulting.com/books/love)
 
-<a href="https://bitfieldconsulting.com/books/love"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1631022836189-6XJP0HJJVF9M9HEVIMX5/cover.png?format=1500w" width="120px"/></a>
+<a href="https://bitfieldconsulting.com/books/love"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1662288911196-30NVRRW5X12FJ7LZMS2Q/cover+store.png?format=1000w" width="120px"/></a>
 
 This book introduces Go to complete beginners, as well as those with some experience programming in other languages. It explains test-driven development (TDD) in Go, how to use data types including structs, slices, and maps, and also shows how to add behaviour to objects using methods and pointers. Includes dozens of code challenges, with complete solutions and tests.
 
@@ -386,7 +386,7 @@ How and when should you apply performance efficiency optimization without wastin
 
 ### [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools)
 
-<img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1637343170143-XPC7BV7IZDWTUDW8KHBH/cover.png?format=120w" width="120px"/>
+<a href="https://bitfieldconsulting.com/books/tools"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1655548424370-GI5RYKXKDMZLAC30MYD8/cover.png?format=1000w" width="120px"/></a>
 
 Go is a popular choice for writing DevOps and systems programs, and command-line tools in particular. How can we write simple, powerful, idiomatic, and even beautiful tools in Go? This book covers all the necessary techniques: functional options, flags and arguments, files and filesystems, executing commands, writing shells and pipelines, JSON and YAML wrangling, and even sophisticated API clients. 
 
@@ -460,6 +460,18 @@ This practical guide will cover:
 You will learn to implement best practices using hands-on examples written with modern practices in mind. With its focus on using 
 the standard library packages as far as possible, Practical Go will give you a solid foundation for developing large applications 
 using Go leveraging the best of the language’s ecosystem.
+
+### [Know Go: Generics](https://bitfieldconsulting.com/books/generics)
+
+<a href="https://bitfieldconsulting.com/books/generics"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1643387892301-I6TQK6R6BYLTMCYCUKHM/cover.png?format=1000w" width="120px"/></a>
+
+Go's 2022 introduction of generics opens up a whole new world of programming in Go. This book explains everything you need to know to start writing generic functions and types, including type parameters, constraints, and the accompanying changes to the standard library. It also offers some advice on how (and whether) you should transition your existing projects to using the new generics features.
+
+### [The Power of Go: Tests](https://bitfieldconsulting.com/books/tests)
+
+<a href="https://bitfieldconsulting.com/books/tests"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1661858750853-ODNL21P3TSKW7B9YKS1D/cover.png?format=1000w" width="120px"/></a>
+
+Go’s built-in support for testing puts tests front and centre of any software project, from command-line tools to sophisticated backend servers and APIs. This book will introduce you to all Go’s testing facilities, show you how to use them to write tests for the trickiest things, and distils the collected wisdom of the Go community on best practices for testing Go programs. Crammed with hundreds of code examples, the book uses real tests and real problems to show you exactly what to do, step by step.
 
 **Web Development**
 ----
