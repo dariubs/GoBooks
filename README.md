@@ -473,6 +473,23 @@ Go's 2022 introduction of generics opens up a whole new world of programming in 
 
 Go’s built-in support for testing puts tests front and centre of any software project, from command-line tools to sophisticated backend servers and APIs. This book will introduce you to all Go’s testing facilities, show you how to use them to write tests for the trickiest things, and distils the collected wisdom of the Go community on best practices for testing Go programs. Crammed with hundreds of code examples, the book uses real tests and real problems to show you exactly what to do, step by step.
 
+### [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
+
+<a href="https://coreyscott.dev/book/"><img src="https://m.media-amazon.com/images/P/B0BCKBP3C5.01._SCLZZZZZZZ_SX500_.jpg" width="120px"/></a>
+
+Are you an experienced Go developer that wants to be more productive? Do you want to write cleaner, faster, and easier to maintain code?
+Then the Beyond Effective Go book series is for you. This series is aimed at competent Gophers. It does not mess around with the basics but instead dives right into the daily problems that professional programmers face. Chiefly, how to write fast, robust applications and services that can be maintained and extended as requirements change.
+
+This book, Part 1 of the series, focuses on achieving high-performance code. You will learn which aspects of your application or code to focus on and when. You will have a suite of tools, software patterns, and recipes at your disposal to make your life easier. After reading, you will:
+
+- Understand the differences between Concurrency and Parallelism.
+- Identify and avoid concurrency issues like deadlock, starvation, livelock, and data races.
+- Understand the various concurrency interaction patterns and be able to apply the one that best fits the problem at hand.
+- Take a deep dive into Go’s concurrency primitives and be able to apply them expertly but also avoid many of their gotchas.
+- Be able to diagnose concurrency and performance issues using Go’s profiler, execution tracing, and benchmarking tools.
+- Be able to identify when code needs optimizing, what needs optimizing and how.
+- Have a catalog of concurrency and performance patterns that you can quickly apply to your projects.
+
 **Web Development**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
