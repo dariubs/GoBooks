@@ -521,6 +521,14 @@ This book, Part 1 of the series, focuses on achieving high-performance code. You
 - Be able to identify when code needs optimizing, what needs optimizing and how.
 - Have a catalog of concurrency and performance patterns that you can quickly apply to your projects.
 
+### [Domain-Driven Design with Golang](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450)
+
+<a href="(https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450"><img src="https://static.packt-cdn.com/products/9781804613450/cover/smaller" width="120px"/></a>
+
+Use Golang to create simple, maintainable systems to solve complex business problems.
+
+Domain-driven design (DDD) is one of the most sought-after skills in the industry. This book provides you with step-by-step explanations of essential concepts and practical examples that will see you introducing DDD in your Go projects in no time. Domain-Driven Design with Golang starts by helping you gain a basic understanding of DDD, and then covers all the important patterns, such as bounded context, ubiquitous language, and aggregates. The latter half of the book deals with the real-world implementation of DDD patterns and teaches you how to build two systems while applying DDD principles, which will be a valuable addition to your portfolio. Finally, you’ll find out how to build a microservice, along with learning how DDD-based microservices can be part of a greater distributed system. Although the focus of this book is Golang, by the end of this book you’ll be able to confidently use DDD patterns outside of Go and apply them to other languages and even distributed systems.
+
 **Web Development**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
