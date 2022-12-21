@@ -83,6 +83,15 @@ It assumes no prior knowledge.
 Each chapter contains test questions with detailed answers.
 The HTML version is free. You can support the author by buying the PDF or Paper version.
 
+### [Go Programming Language Persian](https://book.gofarsi.ir/) *Free*
+
+<img src="https://book.gofarsi.ir/gofarsi-book-cover.jpg" width="120px"/>
+
+The first Persian open source book about golang deep dive.
+In this book, we discuss all deep topics related to the Go language, 
+from the basics to the advanced, with the aim of increasing the Gopher community in Iran.
+
+
 ### [Go in Action](https://www.manning.com/books/go-in-action)
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
