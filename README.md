@@ -235,6 +235,21 @@ Some say Go is a simple language and with only 25 keywords it surely is. But, to
 
 With my book, Go Faster, you can shorten your learning curve and become a proficient Go programmer, going from beginner to expert in no time. Learn Go faster and join the thriving community of skilled Go developers!
 
+### [Shipping Go](https://www.manning.com/books/shipping-go)
+
+<img src="https://images.manning.com/264/352/resize/book/0/f58ed72-e728-44dc-8201-bc972aff8d76/Holmes-MEAP-HI.png" alt="Picture of book cover for Shipping Go" width="120px"/>
+
+You know how to build Go programs—now learn how to ship them to your customers efficiently! This practical guide to continuous delivery shows you how to rapidly establish an automated pipeline that will improve your testing, code quality, and final product.
+
+In Shipping Go you will learn how to:
+ - Develop better software based on feedback from customers
+ - Create a development pipeline that turns feedback into features
+ - Reduce bugs with pipeline automation that validates code before it is deployed
+ - Establish continuous testing for exceptional code quality
+ - Serverless, container based, and server based deployments
+ - Scale your deployment in a cost-effective way
+ - Deliver a culture of continuous improvement
+
 **Advanced Books**
 ---
 
