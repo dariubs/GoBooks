@@ -19,21 +19,15 @@ Awesome Go Books [![Build Status](https://github.com/dariubs/GoBooks/actions/wor
 
 The Little Go Book is a free introduction to Google's Go programming language. It's aimed at developers who might not be quite comfortable with the idea of pointers and static typing. It's longer than the other Little books, but hopefully still captures that little feeling.
 
-### [An Introduction to Programming in Go](http://www.golang-book.com/) *Free*
+### [An Introduction to Programming in Go](https://www.golang-book.com/) *Free*
 
-<img src="http://www.golang-book.com/public/img/intro/cover.4194045234.png" width="120px"/>
+<img src="https://www.golang-book.com/public/img/intro/cover.png" width="120px"/>
 
 This book is a short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
 
-This book is free to [read online](http://www.golang-book.com/) or [pdf form](http://www.golang-book.com/public/pdf/gobook.pdf).
+This book is free to [read online](https://www.golang-book.com/) or [pdf form](https://www.golang-book.com/public/pdf/gobook.pdf).
 
-### [Go Bootcamp](http://www.golangbootcamp.com/) *Free*
-
-<img src="https://softcover.s3.amazonaws.com/38/GoBootcamp/images/cover-web.png" width="120px"/>
-
-This companion book contains material initially written specifically for this event as well as content from Google & the Go team under Creative Commons Attribution 3.0 License and code licensed under a BSD license.
-
-### [Learning Go](http://www.miek.nl/go) *Free*
+### [Learning Go](https://www.miek.nl/go) *Free*
 
 <img src="https://www.miek.nl/go/fig/bumper-inverse.png" width="120px"/>
 
@@ -103,16 +97,16 @@ Go in Action introduces the Go language, guiding you from inquisitive developer 
 
 This book shows you how to build powerful systems and drops you into real-world situations. Scale, performance, and high availability lie at the heart of our projects, and the lessons learned throughout this book will arm you with everything you need to build world-class solutions.
 
-### [Programming in Go: Creating Applications for the 21st Century](http://www.informit.com/store/programming-in-go-creating-applications-for-the-21st-9780321774637)
+### [Programming in Go: Creating Applications for the 21st Century](https://www.informit.com/store/programming-in-go-creating-applications-for-the-21st-9780321774637)
 
-<img src="http://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
+<img src="https://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
 
  Programming in Go brings together all the knowledge you need to evaluate Go, think in Go, and write high-performance software with Go. Summerfield presents multiple idiom comparisons showing exactly how Go improves upon older languages, calling special attention to Go’s key innovations. Along the way, he explains everything from the absolute basics through Go’s lock-free channel-based concurrency and its flexible and unusual duck-typing type-safe approach to object-orientation.
 
 
-### [The Go Programming Language](http://gopl.io/)
+### [The Go Programming Language](https://gopl.io/)
 
-<a href='http://gopl.io/'><img src="http://gopl.io/cover.png" width="120px"/></a>
+<a href='https://gopl.io/'><img src="https://gopl.io/cover.png" width="120px"/></a>
 
 *The Go Programming Language* is the authoritative resource for any
 programmer who wants to learn Go.
@@ -126,7 +120,7 @@ The book features hundreds of interesting and practical examples of
 idiomatic Go code that cover the whole language, its most important libraries,
 and a wide range of applications.
 Source code is freely available for download from the book's companion web site
-[gopl.io](http://gopl.io/),
+[gopl.io](https://gopl.io/),
 and may be conveniently fetched, built, and installed using the `go get` command.
 
 ### [Introducing Go: Build Reliable, Scalable Programs](https://www.oreilly.com/library/view/introducing-go/9781491941997/)
@@ -325,7 +319,7 @@ Network Programming with Go will help you leverage Go to write secure, readable,
 
 This book will take you through the history of concurrency, how Go utilizes it, how Go differs from other languages, and the features and structures of Go's concurrency core. Each step of the way, the book will present real, usable examples with detailed descriptions of the methodologies used. By the end, you will feel comfortable designing a safe, data-consistent, high-performance concurrent application in Go.
 
-### [Go in Practice](http://www.manning.com/butcher/)
+### [Go in Practice](https://www.manning.com/butcher/)
 
 <img src="https://images.manning.com/360/480/resize/book/4/cd81ad9-b07a-4f57-8aa2-9b4c8cede836/Butcher-GoinP-HI.png" width="120px"/>
 
@@ -337,9 +331,9 @@ Go in Practice guides you through dozens of real-world techniques in key areas l
 
 A developer's exprience in golang.
 
-### [The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143)
+### [The Go Programming Language Phrasebook](https://www.informit.com/store/go-programming-language-phrasebook-9780321817143)
 
-<img src="http://www.informit.com/ShowCover.aspx?isbn=9780321817143&type=f"  width="120px"/>
+<img src="https://www.informit.com/ShowCover.aspx?isbn=9780321817143&type=f"  width="120px"/>
 
 Tested, easy-to-adapt code examples illuminate every step of Go development, helping you write highly scalable, concurrent software. You’ll master Go-specific idioms for working with strings, collections, arrays, error handling, goroutines, slices, maps, channels, numbers, dates, times, files, networking, web apps, the runtime, and more.
 
@@ -355,9 +349,9 @@ Learn idiomatic, efficient, clean, and extensible Go design and concurrency patt
 
 In Black Hat Go, you'll learn how to write powerful and effective penetration testing tools in Go, a language revered for its speed and scalability. Start off with an introduction to Go fundamentals like data types, control structures, and error handling; then, dive into the deep end of Go’s offensive capabilities.
 
-### [Concurrency in Go](http://shop.oreilly.com/product/0636920046189.do)
+### [Concurrency in Go](https://shop.oreilly.com/product/0636920046189.do)
 
-[<img src="https://covers.oreillystatic.com/images/0636920046189/cat.gif" width="120px"/>](http://shop.oreilly.com/product/0636920046189.do)
+[<img src="https://covers.oreillystatic.com/images/0636920046189/cat.gif" width="120px"/>](https://shop.oreilly.com/product/0636920046189.do)
 
 Concurrency can be notoriously difficult to get right, but fortunately, the Go open source programming language makes working with concurrency tractable and even easy. If you’re a developer familiar with Go, this practical book demonstrates best practices and patterns to help you incorporate concurrency into your systems.
 
@@ -558,11 +552,11 @@ Domain-driven design (DDD) is one of the most sought-after skills in the industr
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
 
-A good resource for start Building Web Apps with Go. Free to [read online](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/).
+A good resource for start Building Web Apps with Go. Free to [read online](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/).
 
 ### [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) *Free*
 
-Another awesome book for learning Web Development in Golang. Free to [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
+Another awesome book for learning Web Development in Golang. Free to [read online](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
 ### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
 
@@ -584,7 +578,7 @@ This book gives you all you need to use Go in your web applications. You’ll le
 
 At each step, you’ll get advice for better coding in Go. You’ll see how to structure projects, how to use concurrency effectively, and best practices for testing—as well as many other hints and tips gleaned from real world experience of developing web applications with Go.
 
-### [Go Web Programming](http://www.manning.com/chang/)
+### [Go Web Programming](https://www.manning.com/chang/)
 
 <img src="https://images.manning.com/360/480/resize/book/9/908c77b-4a21-488b-b992-cf2ddeb678f0/Chang-GWP-HI.png" width="120px"/>
 
@@ -704,9 +698,9 @@ Resources
 
 ### [Golang tutorial resources](https://webia.io/topic/golang-learning-resources)
 ### [A tour of Go](https://tour.golang.org/)
-### [Video: Learn Go Syntax in one video](http://www.youtube.com/watch?v=CF9S4QZuV30)
+### [Video: Learn Go Syntax in one video](https://www.youtube.com/watch?v=CF9S4QZuV30)
 ### [Tutorials: Go by Example](https://gobyexample.com/)
-### [Go Fundamentals Video Training](http://shop.oreilly.com/category/learning-path/go-fundamentals.do)
+### [Go Fundamentals Video Training](https://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 ### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books)
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 ### [Coursera Specialization: Programming with Go](https://www.coursera.org/specializations/google-golang/)
@@ -721,4 +715,4 @@ Your contributions are always welcome, just follow [the rules](https://github.co
 
 License
 ====
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
