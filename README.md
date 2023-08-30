@@ -64,7 +64,6 @@ Awesome Go Books [![Build Status](https://github.com/dariubs/GoBooks/actions/wor
         - [2021 - Mastering Go, 3rd edition](#2021---mastering-go-3rd-edition)
         - [2023 - Let's Go!](#2023---lets-go)
         - [2023 - Let's Go Further](#2023---lets-go-further)
-        - [Mastering Go Web Services ](#mastering-go-web-services-)
         - [Web Development with Go: Learn to Create Real World Web Applications using Go](#web-development-with-go-learn-to-create-real-world-web-applications-using-go)
         - [Wasm Cooking with Golang](#wasm-cooking-with-golang)
         - [Generative Art in Go](#generative-art-in-go)
@@ -604,12 +603,6 @@ Let's Go teaches you step-by-step how to create fast, secure and maintainable we
 <img src="https://lets-go-further.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
 
 Let’s Go Further helps you extend and expand your knowledge of Go — taking you beyond the basics and guiding you through advanced patterns for developing, managing and deploying APIs and web applications. By the end of the book you'll have all the knowledge you need to create robust and professional APIs which act as backends for SPAs and native mobile applications, or function as stand-alone services.
-
-### [Mastering Go Web Services ](https://www.packtpub.com/product/mastering-go-web-services/9781783981304)
-
-<a href="https://www.packtpub.com/product/mastering-go-web-services/9781783981304"><img src="https://static.packt-cdn.com/products/9781783981304/cover/smaller" width="120px"/></a>
-
-This book will take you through the most important aspects of designing, building, and deploying a web service utilizing idiomatic REST practices with a focus on speed, security, and flexibility. You will begin by building your first API in Go using the HTTP package. You will look at designing and building your application including popular design structures like Model-View-Controller. You will also understand methods for deploying code to staging and development. Finally, you will see how the security features in Go can be used for protection against SQL injection, and sensitive data compromise.
 
 
 ### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.usegolang.com/)
