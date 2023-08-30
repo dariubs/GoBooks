@@ -82,6 +82,7 @@ Awesome Go Books [![Build Status](https://github.com/dariubs/GoBooks/actions/wor
         - [Course: Mastering Go Programming](#course-mastering-go-programming)
         - [Course: Web Development with Google’s Go Programming Language](#course-web-development-with-googles-go-programming-language)
         - [Golangbot.com Articles](#golangbotcom-articles)
+        - [Tuxerrante repo on go exercises](#tuxerrante-repo-on-go-exercises)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -654,6 +655,8 @@ Resources
 ### [Course: Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming)
 ### [Course: Web Development with Google’s Go Programming Language](https://www.udemy.com/course/go-programming-language)
 ### [Golangbot.com Articles](https://golangbot.com/)
+### [Tuxerrante repo on go exercises](https://github.com/tuxerrante/go_exercises)
+
 
 Contributing
 ====
