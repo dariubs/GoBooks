@@ -1,97 +1,93 @@
-Awesome Go Books [![Build Status](https://github.com/dariubs/GoBooks/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/dariubs/GoBooks/actions/workflows/main.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-====
-- [Awesome Go Books  ](#awesome-go-books--)
-- [**Books**](#books)
-    - [**Starter Books**](#starter-books)
-        - [2018 - Learning Go *Free*](#2018---learning-go-free)
-        - [2018 - Get Programming with Go](#2018---get-programming-with-go)
-        - [2019 - API Foundations in Go](#2019---api-foundations-in-go)
-        - [2019 - Go for Javascript Developers *Free*](#2019---go-for-javascript-developers-free)
-        - [2019 - The Go Workshop](#2019---the-go-workshop)
-        - [2020 - How to Code in Go](#2020---how-to-code-in-go)
-        - [2021 - Learning Go: An Idiomatic Approach to Real-World Go Programming](#2021---learning-go-an-idiomatic-approach-to-real-world-go-programming)
-        - [2022 - Go, from the beginning *Free*](#2022---go-from-the-beginning-free)
-        - [2022 - Practical Go Lessons *Free*](#2022---practical-go-lessons-free)
-        - [2022 - Pro Go](#2022---pro-go)
-        - [2022 - Go for DevOps](#2022---go-for-devops)
-        - [2022 - gRPC Microservices in Go](#2022---grpc-microservices-in-go)
-        - [2023 - Learn Go With Tests *Free*](#2023---learn-go-with-tests-free)
-        - [2023 - Go 101 *Free*](#2023---go-101-free)
-        - [2023 - Persian - Go Programming Language *Free*](#2023---persian---go-programming-language-free)
-        - [2023 - For the Love of Go](#2023---for-the-love-of-go)
-        - [2023 - gRPC Go for Professionals](#2023---grpc-go-for-professionals)
-        - [2023 - Learn Go with Pocket-Sized Projects](#2023---learn-go-with-pocket-sized-projects)
-        - [2023 - Go Faster](#2023---go-faster)
-        - [2023 - Shipping Go](#2023---shipping-go)
-    - [**Advanced Books**](#advanced-books)
-        - [2018 - Hands-On Dependency Injection in Go](#2018---hands-on-dependency-injection-in-go)
-        - [2018 - Security with Go](#2018---security-with-go)
-        - [2019 - A Go Developer's Notebook](#2019---a-go-developers-notebook)
-        - [2020 - Black Hat Go](#2020---black-hat-go)
-        - [2020 - Writing An Interpreter In Go](#2020---writing-an-interpreter-in-go)
-        - [2020 - Writing A Compiler In Go](#2020---writing-a-compiler-in-go)
-        - [2020 - Hands-On Software Engineering with Golang](#2020---hands-on-software-engineering-with-golang)
-        - [2021 - Building Distributed Applications in Gin](#2021---building-distributed-applications-in-gin)
-        - [2021 - Network Programming with Go](#2021---network-programming-with-go)
-        - [2021 - Powerful Command-Line Applications in Go](#2021---powerful-command-line-applications-in-go)
-        - [2021 - Effective Go](#2021---effective-go)
-        - [2021 - Cloud Native Go - Building Reliable Services in Unreliable Environments](#2021---cloud-native-go---building-reliable-services-in-unreliable-environments)
-        - [2021 - Everyday Go](#2021---everyday-go)
-        - [2021 - Practical Go: Building Scalable Network and Non-Network Applications](#2021---practical-go-building-scalable-network-and-non-network-applications)
-        - [2022 - Microservices with Go](#2022---microservices-with-go)
-        - [2022 - Event-Driven Architecture in Golang](#2022---event-driven-architecture-in-golang)
-        - [2022 - Efficient Go: Data-Driven Performance Optimization](#2022---efficient-go-data-driven-performance-optimization)
-        - [2022 - 100 Go Mistakes and How to Avoid Them](#2022---100-go-mistakes-and-how-to-avoid-them)
-        - [2022 - Know Go: Generics](#2022---know-go-generics)
-        - [2022 - The Power of Go: Tests](#2022---the-power-of-go-tests)
-        - [2022 - Beyond Effective Go: Part 1 - Achieving High-Performance Code](#2022---beyond-effective-go-part-1---achieving-high-performance-code)
-        - [2022 - Domain-Driven Design with Golang](#2022---domain-driven-design-with-golang)
-        - [2023 - Go programming language secure coding practices guide *Free*](#2023---go-programming-language-secure-coding-practices-guide-free)
-        - [2024 - The Power of Go: Tools](#2024---the-power-of-go-tools)
-        - [2024 - Build an Orchestrator in Go](#2024---build-an-orchestrator-in-go)
-        - [Go with the Domain: Building Modern Business Software in Go *Free*](#go-with-the-domain-building-modern-business-software-in-go-free)
-        - [Spaceship Go **Free**](#spaceship-go-free)
-        - [Ultimate Go Notebook](#ultimate-go-notebook)
-    - [**Web Development**](#web-development)
-        - [2019 - Learn Data Structures and Algorithms with Golang](#2019---learn-data-structures-and-algorithms-with-golang)
-        - [2020 - 12 Factor Applications with Docker and Go](#2020---12-factor-applications-with-docker-and-go)
-        - [2021 - Webapps in Go the anti textbook *Free*](#2021---webapps-in-go-the-anti-textbook-free)
-        - [2021 - Build SaaS apps in Go](#2021---build-saas-apps-in-go)
-        - [2021 - Go Brain Teasers](#2021---go-brain-teasers)
-        - [2021 - Creative DIY Microcontroller Projects with TinyGo and WebAssembly](#2021---creative-diy-microcontroller-projects-with-tinygo-and-webassembly)
-        - [2021 - Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems](#2021---distributed-services-with-go-your-guide-to-reliable-scalable-and-maintainable-systems)
-        - [2021 - Build Systems with Go: Everything a Gopher Must Know](#2021---build-systems-with-go-everything-a-gopher-must-know)
-        - [2021 - Mastering Go, 3rd edition](#2021---mastering-go-3rd-edition)
-        - [2023 - Let's Go!](#2023---lets-go)
-        - [2023 - Let's Go Further](#2023---lets-go-further)
-        - [Web Development with Go: Learn to Create Real World Web Applications using Go](#web-development-with-go-learn-to-create-real-world-web-applications-using-go)
-        - [Wasm Cooking with Golang](#wasm-cooking-with-golang)
-        - [Generative Art in Go](#generative-art-in-go)
-        - [Building Web Apps with Go *Free*](#building-web-apps-with-go-free)
-        - [Build Web Application with Golang *Free*](#build-web-application-with-golang-free)
-- [Resources](#resources)
-        - [Golang tutorial resources](#golang-tutorial-resources)
-        - [A tour of Go](#a-tour-of-go)
-        - [Video: Learn Go Syntax in one video](#video-learn-go-syntax-in-one-video)
-        - [Tutorials: Go by Example](#tutorials-go-by-example)
-        - [Go Fundamentals Video Training](#go-fundamentals-video-training)
-        - [More Books on the Go Wiki](#more-books-on-the-go-wiki)
-        - [TutorialEdge.net Course](#tutorialedgenet-course)
-        - [Coursera Specialization: Programming with Go](#coursera-specialization-programming-with-go)
-        - [Course: Understand Go's In-Depth Mechanics](#course-understand-gos-in-depth-mechanics)
-        - [Course: Mastering Go Programming](#course-mastering-go-programming)
-        - [Course: Web Development with Google’s Go Programming Language](#course-web-development-with-googles-go-programming-language)
-        - [Golangbot.com Articles](#golangbotcom-articles)
-        - [Tuxerrante repo on go exercises](#tuxerrante-repo-on-go-exercises)
+# Awesome Go Books
+
+[![Links](https://github.com/dariubs/GoBooks/actions/workflows/links.yml/badge.svg?branch=master)](https://github.com/dariubs/GoBooks/actions/workflows/links.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+- [Awesome Go Books](#awesome-go-books)
+  - [Starter Books](#starter-books)
+    - [2018 - Learning Go *Free*](#2018---learning-go-free)
+    - [2018 - Get Programming with Go](#2018---get-programming-with-go)
+    - [2019 - API Foundations in Go](#2019---api-foundations-in-go)
+    - [2019 - Go for Javascript Developers *Free*](#2019---go-for-javascript-developers-free)
+    - [2019 - The Go Workshop](#2019---the-go-workshop)
+    - [2020 - How to Code in Go](#2020---how-to-code-in-go)
+    - [2021 - Learning Go: An Idiomatic Approach to Real-World Go Programming](#2021---learning-go-an-idiomatic-approach-to-real-world-go-programming)
+    - [2022 - Go, from the beginning *Free*](#2022---go-from-the-beginning-free)
+    - [2022 - Practical Go Lessons *Free*](#2022---practical-go-lessons-free)
+    - [2022 - Pro Go](#2022---pro-go)
+    - [2022 - Go for DevOps](#2022---go-for-devops)
+    - [2022 - gRPC Microservices in Go](#2022---grpc-microservices-in-go)
+    - [2023 - Learn Go With Tests *Free*](#2023---learn-go-with-tests-free)
+    - [2023 - Go 101 *Free*](#2023---go-101-free)
+    - [2023 - Persian - Go Programming Language *Free*](#2023---persian---go-programming-language-free)
+    - [2023 - For the Love of Go](#2023---for-the-love-of-go)
+    - [2023 - gRPC Go for Professionals](#2023---grpc-go-for-professionals)
+    - [2023 - Learn Go with Pocket-Sized Projects](#2023---learn-go-with-pocket-sized-projects)
+    - [2023 - Go Faster](#2023---go-faster)
+    - [2023 - Shipping Go](#2023---shipping-go)
+  - [Advanced Books](#advanced-books)
+    - [2018 - Hands-On Dependency Injection in Go](#2018---hands-on-dependency-injection-in-go)
+    - [2018 - Security with Go](#2018---security-with-go)
+    - [2019 - A Go Developer's Notebook](#2019---a-go-developers-notebook)
+    - [2020 - Black Hat Go](#2020---black-hat-go)
+    - [2020 - Writing An Interpreter In Go](#2020---writing-an-interpreter-in-go)
+    - [2020 - Writing A Compiler In Go](#2020---writing-a-compiler-in-go)
+    - [2020 - Hands-On Software Engineering with Golang](#2020---hands-on-software-engineering-with-golang)
+    - [2021 - Building Distributed Applications in Gin](#2021---building-distributed-applications-in-gin)
+    - [2021 - Network Programming with Go](#2021---network-programming-with-go)
+    - [2021 - Powerful Command-Line Applications in Go](#2021---powerful-command-line-applications-in-go)
+    - [2021 - Effective Go](#2021---effective-go)
+    - [2021 - Cloud Native Go - Building Reliable Services in Unreliable Environments](#2021---cloud-native-go---building-reliable-services-in-unreliable-environments)
+    - [2021 - Everyday Go](#2021---everyday-go)
+    - [2021 - Practical Go: Building Scalable Network and Non-Network Applications](#2021---practical-go-building-scalable-network-and-non-network-applications)
+    - [2022 - Microservices with Go](#2022---microservices-with-go)
+    - [2022 - Event-Driven Architecture in Golang](#2022---event-driven-architecture-in-golang)
+    - [2022 - Efficient Go: Data-Driven Performance Optimization](#2022---efficient-go-data-driven-performance-optimization)
+    - [2022 - 100 Go Mistakes and How to Avoid Them](#2022---100-go-mistakes-and-how-to-avoid-them)
+    - [2022 - Know Go: Generics](#2022---know-go-generics)
+    - [2022 - The Power of Go: Tests](#2022---the-power-of-go-tests)
+    - [2022 - Beyond Effective Go: Part 1 - Achieving High-Performance Code](#2022---beyond-effective-go-part-1---achieving-high-performance-code)
+    - [2022 - Domain-Driven Design with Golang](#2022---domain-driven-design-with-golang)
+    - [2023 - Go programming language secure coding practices guide *Free*](#2023---go-programming-language-secure-coding-practices-guide-free)
+    - [2024 - The Power of Go: Tools](#2024---the-power-of-go-tools)
+    - [2024 - Build an Orchestrator in Go](#2024---build-an-orchestrator-in-go)
+    - [Go with the Domain: Building Modern Business Software in Go *Free*](#go-with-the-domain-building-modern-business-software-in-go-free)
+    - [Spaceship Go **Free**](#spaceship-go-free)
+    - [Ultimate Go Notebook](#ultimate-go-notebook)
+  - [Web Development](#web-development)
+    - [2019 - Learn Data Structures and Algorithms with Golang](#2019---learn-data-structures-and-algorithms-with-golang)
+    - [2020 - 12 Factor Applications with Docker and Go](#2020---12-factor-applications-with-docker-and-go)
+    - [2021 - Webapps in Go the anti textbook *Free*](#2021---webapps-in-go-the-anti-textbook-free)
+    - [2021 - Build SaaS apps in Go](#2021---build-saas-apps-in-go)
+    - [2021 - Go Brain Teasers](#2021---go-brain-teasers)
+    - [2021 - Creative DIY Microcontroller Projects with TinyGo and WebAssembly](#2021---creative-diy-microcontroller-projects-with-tinygo-and-webassembly)
+    - [2021 - Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems](#2021---distributed-services-with-go-your-guide-to-reliable-scalable-and-maintainable-systems)
+    - [2021 - Build Systems with Go: Everything a Gopher Must Know](#2021---build-systems-with-go-everything-a-gopher-must-know)
+    - [2021 - Mastering Go, 3rd edition](#2021---mastering-go-3rd-edition)
+    - [2023 - Let's Go!](#2023---lets-go)
+    - [2023 - Let's Go Further](#2023---lets-go-further)
+    - [Web Development with Go: Learn to Create Real World Web Applications using Go](#web-development-with-go-learn-to-create-real-world-web-applications-using-go)
+    - [Wasm Cooking with Golang](#wasm-cooking-with-golang)
+    - [Generative Art in Go](#generative-art-in-go)
+    - [Building Web Apps with Go *Free*](#building-web-apps-with-go-free)
+    - [Build Web Application with Golang *Free*](#build-web-application-with-golang-free)
+  - [Resources](#resources)
+    - [A tour of Go](#a-tour-of-go)
+    - [Video: Learn Go Syntax in one video](#video-learn-go-syntax-in-one-video)
+    - [Tutorials: Go by Example](#tutorials-go-by-example)
+    - [Go Fundamentals Video Training](#go-fundamentals-video-training)
+    - [More Books on the Go Wiki](#more-books-on-the-go-wiki)
+    - [TutorialEdge.net Course](#tutorialedgenet-course)
+    - [Coursera Specialization: Programming with Go](#coursera-specialization-programming-with-go)
+    - [Course: Understand Go's In-Depth Mechanics](#course-understand-gos-in-depth-mechanics)
+    - [Course: Mastering Go Programming](#course-mastering-go-programming)
+    - [Course: Web Development with Google’s Go Programming Language](#course-web-development-with-googles-go-programming-language)
+    - [Golangbot.com Articles](#golangbotcom-articles)
+    - [Tuxerrante repo on go exercises](#tuxerrante-repo-on-go-exercises)
 - [Contributing](#contributing)
 - [License](#license)
 
+## Starter Books
 
-**Books**
-====
-
-**Starter Books**
-----
 ### 2018 - [Learning Go](https://www.miek.nl/go) *Free*
 
 <img src="https://www.miek.nl/go/fig/bumper-inverse.png" width="120px"/>
@@ -265,8 +261,8 @@ In Shipping Go you will learn how to:
 
 
 
-**Advanced Books**
----
+## Advanced Books
+
 ### 2018 - [Hands-On Dependency Injection in Go](https://amzn.to/2Q6dLQC)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51%2B8EdihuKL._SX404_BO1,204,203,200_.jpg" width="120px"/>
@@ -471,7 +467,7 @@ This book, Part 1 of the series, focuses on achieving high-performance code. You
 
 ### 2022 - [Domain-Driven Design with Golang](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450)
 
-<a href="(https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450"><img src="https://static.packt-cdn.com/products/9781804613450/cover/smaller" width="120px"/></a>
+<a href="https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450"><img src="https://static.packt-cdn.com/products/9781804613450/cover/smaller" width="120px"/></a>
 
 Use Golang to create simple, maintainable systems to solve complex business problems.
 
@@ -485,7 +481,7 @@ The main goal of this book is to help developers avoid common mistakes while at 
 
 ### 2024 - [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools)
 
-<a href="https://bitfieldconsulting.com/books/tools"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1673518599537-351B71KV6BG97TGS4DRW/cover.png?format=750w" width="120px"/></a>
+<a href="https://bitfieldconsulting.com/books/tools"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1692633122737-F5BODKTKIVDRHVEMY7Z4/cover+2024.png?format=1500w" width="120px"/></a>
 
 Go is a popular choice for writing DevOps and systems programs, and command-line tools in particular. How can we write simple, powerful, idiomatic, and even beautiful tools in Go? This book covers all the necessary techniques: functional options, flags and arguments, files and filesystems, executing commands, writing shells and pipelines, JSON and YAML wrangling, and even sophisticated API clients.
 
@@ -531,8 +527,8 @@ This notebook has been designed to provide a reference to everything mentioned i
 
 
 
-**Web Development**
-----
+## Web Development
+
 ### 2019 - [Learn Data Structures and Algorithms with Golang](https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501)
 
 <img src="https://static.packt-cdn.com/products/9781789618501/cover/smaller" width="120px"/>
@@ -543,7 +539,7 @@ By the end of the book, you'll have become adept at implementing classic data st
 ### 2020 - [12 Factor Applications with Docker and Go](https://leanpub.com/12fa-docker-golang)
 <a href="https://leanpub.com/12fa-docker-golang"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/12fa-docker-golang/hero?1503844662" width="120px"/></a>
 
-A book filled with examples on how to use Docker and Go to create the ultimate 12 Factor applications. It goes over individual steps of [The Twelve-Factor App](12factor.net) guidelines and how to implement them with Go and Docker.
+A book filled with examples on how to use Docker and Go to create the ultimate 12 Factor applications. It goes over individual steps of [The Twelve-Factor App](https://12factor.net/) guidelines and how to implement them with Go and Docker.
 
 ### 2021 - [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
 
@@ -640,8 +636,7 @@ A good resource for start Building Web Apps with Go.
 Another awesome book for learning Web Development in Golang.
 
 
-Resources
-====
+## Resources
 
 ### [A tour of Go](https://tour.golang.org/)
 ### [Video: Learn Go Syntax in one video](https://www.youtube.com/watch?v=CF9S4QZuV30)
