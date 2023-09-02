@@ -1,8 +1,7 @@
-name: Links (Fail Fast)
+name: Links
 
 on:
-  push:
-  pull_request:
+  - pull_request
 
 jobs:
   linkChecker:
