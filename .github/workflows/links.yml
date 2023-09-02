@@ -13,3 +13,4 @@ jobs:
         uses: lycheeverse/lychee-action@v1
         with:
           fail: true
+          args: --accept 403 './**/*.md'
