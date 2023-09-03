@@ -1,8 +1,11 @@
 name: Links
 
 on:
-  - pull_request
-
+  push:
+    branches: master
+  pull_request:
+    branches: master
+  
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
