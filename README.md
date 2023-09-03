@@ -1,6 +1,6 @@
 # Awesome Go Books
 
-[![Links](https://github.com/dariubs/GoBooks/actions/workflows/links.yml/badge.svg?branch=master)](https://github.com/dariubs/GoBooks/actions/workflows/links.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Links](https://github.com/dariubs/GoBooks/actions/workflows/links.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/links.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - [Awesome Go Books](#awesome-go-books)
   - [Starter Books](#starter-books)
