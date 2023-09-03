@@ -51,7 +51,7 @@
     - [2024 - The Power of Go: Tools](#2024---the-power-of-go-tools)
     - [2024 - Build an Orchestrator in Go](#2024---build-an-orchestrator-in-go)
     - [Go with the Domain: Building Modern Business Software in Go *Free*](#go-with-the-domain-building-modern-business-software-in-go-free)
-    - [Spaceship Go **Free**](#spaceship-go-free)
+    - [Spaceship Go *Free*](#spaceship-go-free)
     - [Ultimate Go Notebook](#ultimate-go-notebook)
   - [Web Development](#web-development)
     - [2019 - Learn Data Structures and Algorithms with Golang](#2019---learn-data-structures-and-algorithms-with-golang)
@@ -233,6 +233,8 @@ In recent years, Microservice architecture has been gaining popularity. With tha
 In gRPC Go for Professionals, you'll begin by learning the core concepts such as how the framework sends messages over the network and why it uses Protobuf for serialization and deserialization. After that, we will implement a TODO list API step by step to see the different features of gRPC. Then we are going to see how to test your services in different ways. We will see how to debug your API endpoints. And finally, we will see how to deploy the application's services by creating Docker images and using Kubernetes.
 
 ### 2023 - [Learn Go with Pocket-Sized Projects](https://www.manning.com/books/learn-go-with-pocket-sized-projects)
+
+<img src="https://drek4537l1klr.cloudfront.net/latour/Figures/cover.jpg" width="120px"/>
 
 Learn Go with Pocket-Sized Projects teaches you to write professional-level Go code by creating handy tools and fun apps. Each small, self-contained project introduces important practical skills, including ensuring that your code is thoroughly tested and documented! You’ll make architectural decisions for your projects and organize your code in a maintainable way. Everything you learn is easy to scale-up to full-size Go applications.
 
@@ -506,7 +508,7 @@ It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Comm
 The book is based on a [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
-### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) **Free**
+### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) *Free*
 
 <img src="https://raw.githubusercontent.com/blasrodri/spaceship-go/master/src/img/cover.svg" width="120px"/>
 
