@@ -9,6 +9,7 @@
     - [2019 - API Foundations in Go](#2019---api-foundations-in-go)
     - [2019 - Go for Javascript Developers *Free*](#2019---go-for-javascript-developers-free)
     - [2019 - The Go Workshop](#2019---the-go-workshop)
+    - [2019 - Head First Go](#2019---head-first-go)
     - [2020 - How to Code in Go](#2020---how-to-code-in-go)
     - [2021 - Learning Go: An Idiomatic Approach to Real-World Go Programming](#2021---learning-go-an-idiomatic-approach-to-real-world-go-programming)
     - [2022 - Go, from the beginning *Free*](#2022---go-from-the-beginning-free)
@@ -121,6 +122,18 @@ This book helps Javascripters become Gophers. Outlining the differences between 
 <a href="https://www.packtpub.com/product/the-go-workshop/9781838647940"><img src="https://images-na.ssl-images-amazon.com/images/I/61ibSG7yEXL.jpg" width="120px"/></a>
 
 The Go Workshop will take the pain out of learning the Go programming language (also known as Golang). It is designed to teach you to be productive in building real-world software. Presented in an engaging, hands-on way, this book focuses on the features of Go that are used by professionals in their everyday work.
+
+### 2019 - [Head First Go](https://headfirstgo.com/)
+
+<a href="https://headfirstgo.com/"><img src="https://m.media-amazon.com/images/I/81FQ3rVS5lL._SY466_.jpg" width="120px"/></a>
+
+#### What will you learn from this book?
+
+Go makes it easy to build software that’s simple, reliable, and efficient. Andthis book makes it easy for programmers like you to get started. Googledesigned Go for high-performance networking and multiprocessing, but—like Python and JavaScript—the language is easy to read and use. With thispractical hands-on guide, you’ll learn how to write Go code using clearexamples that demonstrate the language in action. Best of all, you’ll understandthe conventions and techniques that employers want entry-level Godevelopers to know.
+
+#### Why does this book look so different?
+
+Based on the latest research in cognitive science and learning theory, HeadFirst Go uses a visually rich format to engage your mind rather than a textheavyapproach that puts you to sleep. Why waste your time struggling withnew concepts? This multisensory learning experience is designed for theway your brain really works.
 
 
 ### 2020 - [How to Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
