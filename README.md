@@ -51,9 +51,11 @@
     - [2023 - Go programming language secure coding practices guide *Free*](#2023---go-programming-language-secure-coding-practices-guide-free)
     - [2024 - The Power of Go: Tools](#2024---the-power-of-go-tools)
     - [2024 - Build an Orchestrator in Go](#2024---build-an-orchestrator-in-go)
+    - [2024 - Explore Go: Cryptography](#2024---explore-go-cryptography)
     - [Go with the Domain: Building Modern Business Software in Go *Free*](#go-with-the-domain-building-modern-business-software-in-go-free)
     - [Spaceship Go *Free*](#spaceship-go-free)
     - [Ultimate Go Notebook](#ultimate-go-notebook)
+
   - [Web Development](#web-development)
     - [2019 - Learn Data Structures and Algorithms with Golang](#2019---learn-data-structures-and-algorithms-with-golang)
     - [2020 - 12 Factor Applications with Docker and Go](#2020---12-factor-applications-with-docker-and-go)
@@ -510,6 +512,11 @@ Understand Kubernetes and other orchestration systems deeply by building your ow
 
 Orchestration systems like Kubernetes coordinate other software subsystems and services to create a complete organized system. Although orchestration tools have a reputation for complexity, they’re designed around few important patterns that apply across many aspects of software development. Build an Orchestrator in Go reveals the inner workings of orchestration frameworks by guiding you as you design and implement your own using the Go SDK. As you create your own orchestration framework, you’ll improve your understanding of Kubernetes and its role in distributed system design. You’ll also build the skills required to design custom orchestration solutions for those times when an out-of-the-box solution isn’t a good fit.
 
+### 2024 - [Explore Go: Cryptography](https://bitfieldconsulting.com/books/crypto)
+
+<a href="https://bitfieldconsulting.com/books/crypto"><img src="https://images.squarespace-cdn.com/content/5e10bdc20efb8f0d169f85f9/30992a12-3d08-4026-a1e0-19a50c9dc2ef/cover+%28no+version%29.png" width="120px"/></a>
+
+Much of the modern world is built on cryptography, and this book introduces readers to the fundamental principles of ciphers, keys, and hashing. It traces the development of increasingly sophisticated cryptographic schemes from the Caesar cipher to SHA-256 and AES-GCM, including dozens of example Go programs and coding challenges. The book concludes with a review of best practices for handling encryption and authentication in Go applications.
 
 ### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*
 
@@ -539,8 +546,6 @@ The Ultimate Go Notebook is the official companion book for the Ardan Labs Ultim
 With this book, you will learn how to write more idiomatic and performant code with a focus on micro-level engineering decisions.
 
 This notebook has been designed to provide a reference to everything mentioned in class, as if they were your own personal notes.
-
-
 
 ## Web Development
 
