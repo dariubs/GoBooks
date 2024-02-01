@@ -51,9 +51,11 @@
     - [2023 - Go programming language secure coding practices guide *Free*](#2023---go-programming-language-secure-coding-practices-guide-free)
     - [2024 - The Power of Go: Tools](#2024---the-power-of-go-tools)
     - [2024 - Build an Orchestrator in Go](#2024---build-an-orchestrator-in-go)
+    - [2024 - Explore Go: Cryptography](#2024---explore-go-cryptography)
     - [Go with the Domain: Building Modern Business Software in Go *Free*](#go-with-the-domain-building-modern-business-software-in-go-free)
     - [Spaceship Go *Free*](#spaceship-go-free)
     - [Ultimate Go Notebook](#ultimate-go-notebook)
+
   - [Web Development](#web-development)
     - [2019 - Learn Data Structures and Algorithms with Golang](#2019---learn-data-structures-and-algorithms-with-golang)
     - [2020 - 12 Factor Applications with Docker and Go](#2020---12-factor-applications-with-docker-and-go)
@@ -233,7 +235,7 @@ from the basics to the advanced, with the aim of increasing the Gopher community
 
 ### 2023 - [For the Love of Go](https://bitfieldconsulting.com/books/love)
 
-<a href="https://bitfieldconsulting.com/books/love"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1673518370365-AFP3TYFY9O2A6VQXL2CM/cover+store.png?format=750w" width="120px"/></a>
+<a href="https://bitfieldconsulting.com/books/love"><img src="https://images.squarespace-cdn.com/content/5e10bdc20efb8f0d169f85f9/9766724f-8d7a-4b09-b259-a69596ba5986/cover+%28no+version%29.png?content-type=image%2Fpng" width="120px"/></a>
 
 This book introduces Go to complete beginners, as well as those with some experience programming in other languages. It explains test-driven development (TDD) in Go, how to use data types including structs, slices, and maps, and also shows how to add behaviour to objects using methods and pointers. Includes dozens of code challenges, with complete solutions and tests.
 
@@ -453,13 +455,13 @@ How and when should you apply performance efficiency optimization without wastin
 
 ### 2022 - [Know Go: Generics](https://bitfieldconsulting.com/books/generics)
 
-<a href="https://bitfieldconsulting.com/books/generics"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1673518655121-YPR9LAHVI65F7ACFBOJK/cover.png?format=750w" width="120px"/></a>
+<a href="https://bitfieldconsulting.com/books/generics"><img src="https://images.squarespace-cdn.com/content/5e10bdc20efb8f0d169f85f9/9b9a3810-a9cb-46a8-8d03-ef45ebc09fe0/cover+%28no+version%29.png?content-type=image%2Fpng" width="120px"/></a>
 
 Go's 2022 introduction of generics opens up a whole new world of programming in Go. This book explains everything you need to know to start writing generic functions and types, including type parameters, constraints, and the accompanying changes to the standard library. It also offers some advice on how (and whether) you should transition your existing projects to using the new generics features.
 
 ### 2022 - [The Power of Go: Tests](https://bitfieldconsulting.com/books/tests)
 
-<a href="https://bitfieldconsulting.com/books/tests"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1673518511173-81PQJ6W8P0U1LUR0S5EC/cover.png?format=750w" width="120px"/></a>
+<a href="https://bitfieldconsulting.com/books/tests"><img src="https://images.squarespace-cdn.com/content/5e10bdc20efb8f0d169f85f9/28e50f0d-5d77-42a4-8122-1e6d2a581849/cover+%28no+version%29.png?content-type=image%2Fpng" width="120px"/></a>
 
 Go’s built-in support for testing puts tests front and centre of any software project, from command-line tools to sophisticated backend servers and APIs. This book will introduce you to all Go’s testing facilities, show you how to use them to write tests for the trickiest things, and distils the collected wisdom of the Go community on best practices for testing Go programs. Crammed with hundreds of code examples, the book uses real tests and real problems to show you exactly what to do, step by step.
 
@@ -496,7 +498,7 @@ The main goal of this book is to help developers avoid common mistakes while at 
 
 ### 2024 - [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools)
 
-<a href="https://bitfieldconsulting.com/books/tools"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1692633122737-F5BODKTKIVDRHVEMY7Z4/cover+2024.png?format=1500w" width="120px"/></a>
+<a href="https://bitfieldconsulting.com/books/tools"><img src="https://images.squarespace-cdn.com/content/5e10bdc20efb8f0d169f85f9/6057eba2-a450-48c6-96e3-8cf7a14d6abe/cover+%28no+version%29.png?content-type=image%2Fpng" width="120px"/></a>
 
 Go is a popular choice for writing DevOps and systems programs, and command-line tools in particular. How can we write simple, powerful, idiomatic, and even beautiful tools in Go? This book covers all the necessary techniques: functional options, flags and arguments, files and filesystems, executing commands, writing shells and pipelines, JSON and YAML wrangling, and even sophisticated API clients.
 
@@ -510,6 +512,11 @@ Understand Kubernetes and other orchestration systems deeply by building your ow
 
 Orchestration systems like Kubernetes coordinate other software subsystems and services to create a complete organized system. Although orchestration tools have a reputation for complexity, they’re designed around few important patterns that apply across many aspects of software development. Build an Orchestrator in Go reveals the inner workings of orchestration frameworks by guiding you as you design and implement your own using the Go SDK. As you create your own orchestration framework, you’ll improve your understanding of Kubernetes and its role in distributed system design. You’ll also build the skills required to design custom orchestration solutions for those times when an out-of-the-box solution isn’t a good fit.
 
+### 2024 - [Explore Go: Cryptography](https://bitfieldconsulting.com/books/crypto)
+
+<a href="https://bitfieldconsulting.com/books/crypto"><img src="https://images.squarespace-cdn.com/content/5e10bdc20efb8f0d169f85f9/30992a12-3d08-4026-a1e0-19a50c9dc2ef/cover+%28no+version%29.png" width="120px"/></a>
+
+Much of the modern world is built on cryptography, and this book introduces readers to the fundamental principles of ciphers, keys, and hashing. It traces the development of increasingly sophisticated cryptographic schemes from the Caesar cipher to SHA-256 and AES-GCM, including dozens of example Go programs and coding challenges. The book concludes with a review of best practices for handling encryption and authentication in Go applications.
 
 ### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*
 
@@ -539,8 +546,6 @@ The Ultimate Go Notebook is the official companion book for the Ardan Labs Ultim
 With this book, you will learn how to write more idiomatic and performant code with a focus on micro-level engineering decisions.
 
 This notebook has been designed to provide a reference to everything mentioned in class, as if they were your own personal notes.
-
-
 
 ## Web Development
 
