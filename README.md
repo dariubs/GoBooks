@@ -24,7 +24,7 @@
     - [2023 - Learn Go with Pocket-Sized Projects](#2023---learn-go-with-pocket-sized-projects)
     - [2023 - Go Faster](#2023---go-faster)
     - [2023 - Shipping Go](#2023---shipping-go)
-    - [2024 - Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](#2024---learning-go-an-idiomatic-approach-to-real-world-go-programming---2nd-edition)
+    - [2024 - Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](#2024---learning-go-an-idiomatic-approach-to-real-world-go-programming-2nd-edition)
   - [Advanced Books](#advanced-books)
     - [2018 - Hands-On Dependency Injection in Go](#2018---hands-on-dependency-injection-in-go)
     - [2018 - Security with Go](#2018---security-with-go)
