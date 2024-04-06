@@ -260,7 +260,7 @@ In Shipping Go you will learn how to:
  - Scale your deployment in a cost-effective way
  - Deliver a culture of continuous improvement
 
-### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://amzn.eu/d/0ExgXvJ)
+### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://www.amazon.de/-/en/Jon-Bodner/dp/1098139291)
 
 <img src="https://learning.oreilly.com/library/cover/9781098139285/250w/" width="120px"/>
 
