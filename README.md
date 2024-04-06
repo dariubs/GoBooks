@@ -260,6 +260,25 @@ In Shipping Go you will learn how to:
  - Scale your deployment in a cost-effective way
  - Deliver a culture of continuous improvement
 
+### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://amzn.eu/d/0ExgXvJ)
+
+<img src="https://learning.oreilly.com/library/cover/9781098139285/250w/" width="120px"/>
+
+Go has rapidly become the preferred language for building web services. Plenty of tutorials are available to teach Go's syntax to developers with experience in other programming languages, but tutorials aren't enough. They don't teach Go's idioms, so developers end up recreating patterns that don't make sense in a Go context. This practical guide provides the essential background you need to write clear and idiomatic Go.
+
+No matter your level of experience, you'll learn how to think like a Go developer. Author Jon Bodner introduces the design patterns experienced Go developers have adopted and explores the rationale for using them. This updated edition also shows you how Go's generics support fits into the language.
+
+This book helps you:
+
+- Write idiomatic code in Go and design a Go project
+- Understand the reasons behind Go's design decisions
+- Set up a Go development environment for a solo developer or team
+- Learn how and when to use reflection, unsafe, and cgo
+- Discover how Go's features allow the language to run efficiently
+- Know which Go features you should use sparingly or not at all
+- Use Go's tools to improve performance, optimize memory usage, and reduce garbage collection
+- Learn how to use Go's advanced development tools
+
 
 
 ## Advanced Books
@@ -604,25 +623,6 @@ Let's Go teaches you step-by-step how to create fast, secure and maintainable we
 <img src="https://lets-go-further.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
 
 Let’s Go Further helps you extend and expand your knowledge of Go — taking you beyond the basics and guiding you through advanced patterns for developing, managing and deploying APIs and web applications. By the end of the book you'll have all the knowledge you need to create robust and professional APIs which act as backends for SPAs and native mobile applications, or function as stand-alone services.
-
-### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://amzn.eu/d/0ExgXvJ)
-
-<img src="https://learning.oreilly.com/library/cover/9781098139285/250w/" width="120px"/>
-
-Go has rapidly become the preferred language for building web services. Plenty of tutorials are available to teach Go's syntax to developers with experience in other programming languages, but tutorials aren't enough. They don't teach Go's idioms, so developers end up recreating patterns that don't make sense in a Go context. This practical guide provides the essential background you need to write clear and idiomatic Go.
-
-No matter your level of experience, you'll learn how to think like a Go developer. Author Jon Bodner introduces the design patterns experienced Go developers have adopted and explores the rationale for using them. This updated edition also shows you how Go's generics support fits into the language.
-
-This book helps you:
-
-- Write idiomatic code in Go and design a Go project
-- Understand the reasons behind Go's design decisions
-- Set up a Go development environment for a solo developer or team
-- Learn how and when to use reflection, unsafe, and cgo
-- Discover how Go's features allow the language to run efficiently
-- Know which Go features you should use sparingly or not at all
-- Use Go's tools to improve performance, optimize memory usage, and reduce garbage collection
-- Learn how to use Go's advanced development tools
 
 
 ### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.usegolang.com/)
