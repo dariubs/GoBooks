@@ -11,7 +11,6 @@
     - [2019 - The Go Workshop](#2019---the-go-workshop)
     - [2019 - Head First Go](#2019---head-first-go)
     - [2020 - How to Code in Go](#2020---how-to-code-in-go)
-    - [2021 - Learning Go: An Idiomatic Approach to Real-World Go Programming](#2021---learning-go-an-idiomatic-approach-to-real-world-go-programming)
     - [2022 - Go, from the beginning *Free*](#2022---go-from-the-beginning-free)
     - [2022 - Practical Go Lessons *Free*](#2022---practical-go-lessons-free)
     - [2022 - Pro Go](#2022---pro-go)
@@ -25,6 +24,7 @@
     - [2023 - Learn Go with Pocket-Sized Projects](#2023---learn-go-with-pocket-sized-projects)
     - [2023 - Go Faster](#2023---go-faster)
     - [2023 - Shipping Go](#2023---shipping-go)
+    - [2024 - Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](#2024---learning-go-an-idiomatic-approach-to-real-world-go-programming-2nd-edition)
   - [Advanced Books](#advanced-books)
     - [2018 - Hands-On Dependency Injection in Go](#2018---hands-on-dependency-injection-in-go)
     - [2018 - Security with Go](#2018---security-with-go)
@@ -143,22 +143,6 @@ Based on the latest research in cognitive science and learning theory, HeadFirst
 This book is designed to introduce you to writing programs with the Go programming language. You’ll learn how to write useful tools and applications that can run on remote servers, or local Windows, macOS, and Linux systems for development. Available in [epub](https://assets.digitalocean.com/books/how-to-code-in-go.epub) and [pdf](https://assets.digitalocean.com/books/how-to-code-in-go.pdf).
 
 
-### 2021 - [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.amazon.de/-/en/Jon-Bodner/dp/1492077216)
-
-<img src="https://learning.oreilly.com/library/cover/9781492077206/250w/" width="120px"/>
-
-Go is rapidly becoming the preferred language for building web services. While there are plenty of tutorials available that teach Go's syntax to developers with experience in other programming languages, tutorials aren't enough. They don't teach Go's idioms, so developers end up recreating patterns that don't make sense in a Go context. This practical guide provides the essential background you need to write clear and idiomatic Go.
-
-No matter your level of experience, you'll learn how to think like a Go developer. Author Jon Bodner introduces the design patterns experienced Go developers have adopted and explores the rationale for using them. You'll also get a preview of Go's upcoming generics support and how it fits into the language.
-
-- Learn how to write idiomatic code in Go and design a Go project
-- Understand the reasons for the design decisions in Go
-- Set up a Go development environment for a solo developer or team
-- Learn how and when to use reflection, unsafe, and cgo
-- Discover how Go's features allow the language to run efficiently
-- Know which Go features you should use sparingly or not at all
-
-
 ### 2022 - [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free*
 <img src="https://d2sofvawe08yqg.cloudfront.net/go-from-the-beginning/s_hero?1651955611" width="120px">
 
@@ -275,6 +259,25 @@ In Shipping Go you will learn how to:
  - Serverless, container based, and server based deployments
  - Scale your deployment in a cost-effective way
  - Deliver a culture of continuous improvement
+
+### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://www.amazon.de/-/en/Jon-Bodner/dp/1098139291)
+
+<img src="https://learning.oreilly.com/library/cover/9781098139285/250w/" width="120px"/>
+
+Go has rapidly become the preferred language for building web services. Plenty of tutorials are available to teach Go's syntax to developers with experience in other programming languages, but tutorials aren't enough. They don't teach Go's idioms, so developers end up recreating patterns that don't make sense in a Go context. This practical guide provides the essential background you need to write clear and idiomatic Go.
+
+No matter your level of experience, you'll learn how to think like a Go developer. Author Jon Bodner introduces the design patterns experienced Go developers have adopted and explores the rationale for using them. This updated edition also shows you how Go's generics support fits into the language.
+
+This book helps you:
+
+- Write idiomatic code in Go and design a Go project
+- Understand the reasons behind Go's design decisions
+- Set up a Go development environment for a solo developer or team
+- Learn how and when to use reflection, unsafe, and cgo
+- Discover how Go's features allow the language to run efficiently
+- Know which Go features you should use sparingly or not at all
+- Use Go's tools to improve performance, optimize memory usage, and reduce garbage collection
+- Learn how to use Go's advanced development tools
 
 
 
