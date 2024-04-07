@@ -188,13 +188,6 @@ Some of the key things this book will teach you are how to write Go software to 
 
 By the end of this Go for DevOps book, you'll understand how to apply development principles to automate operations and provide operational insights using Go, which will allow you to react quickly to resolve system failures before your customers realize something has gone wrong.
 
-### 2022 - [gRPC Microservices in Go](https://shortener.manning.com/44lB)
-
-<img src="https://images.manning.com/360/480/resize/book/0/fb100d0-fa71-4eb2-bbd9-572eadb5b3a4/Babal-MEAP-HI.png" width="120px"/>
-
-For the last decade, we have heard stories about Monolith to Microservice transitions and we might think that this transition solves the majority of the problems in the organizations. However, it might end up with mess if you are not aware about best practices of this transition, since Microservice Architecture comes with its challenges. In this book, we start covering production grade best practices of Microservices Architecture and explain when to use it. Then we talk about microservice communication patterns where gRPC comes to the stage. You will see complete examples written in Go with Hexagonal Architecture applied to project structure. You will not only learn how to implement microservices, you will see how to write tests, maintain quality with proper CI, deploy to Kubernetes environment and finally set up an observable system to have better monitoring for your application.
-
-
 ### 2023 - [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/) *Free*
 
 <img src="https://raw.githubusercontent.com/quii/learn-go-with-tests/master/epub-cover-small.png" width="120px"/>
@@ -247,7 +240,7 @@ With my book, Go Faster, you can shorten your learning curve and become a profic
 
 ### 2023 - [Shipping Go](https://www.manning.com/books/shipping-go)
 
-<img src="https://images.manning.com/264/352/resize/book/0/f58ed72-e728-44dc-8201-bc972aff8d76/Holmes-MEAP-HI.png" alt="Picture of book cover for Shipping Go" width="120px"/>
+<img src="https://images.manning.com/360/480/resize/book/8/dd36eb5-8dc9-461d-ad45-f24b54de4438/Holmes-HI.png" alt="Picture of book cover for Shipping Go" width="120px"/>
 
 You know how to build Go programs—now learn how to ship them to your customers efficiently! This practical guide to continuous delivery shows you how to rapidly establish an automated pipeline that will improve your testing, code quality, and final product.
 
@@ -259,6 +252,12 @@ In Shipping Go you will learn how to:
  - Serverless, container based, and server based deployments
  - Scale your deployment in a cost-effective way
  - Deliver a culture of continuous improvement
+
+### 2023 - [gRPC Microservices in Go](https://shortener.manning.com/44lB)
+
+<img src="https://images.manning.com/360/480/resize/book/a/6f11c19-664b-4781-a571-5881e869de29/Babal-HI.png" width="120px"/>
+
+For the last decade, we have heard stories about Monolith to Microservice transitions and we might think that this transition solves the majority of the problems in the organizations. However, it might end up with mess if you are not aware about best practices of this transition, since Microservice Architecture comes with its challenges. In this book, we start covering production grade best practices of Microservices Architecture and explain when to use it. Then we talk about microservice communication patterns where gRPC comes to the stage. You will see complete examples written in Go with Hexagonal Architecture applied to project structure. You will not only learn how to implement microservices, you will see how to write tests, maintain quality with proper CI, deploy to Kubernetes environment and finally set up an observable system to have better monitoring for your application.
 
 ### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://www.amazon.de/-/en/Jon-Bodner/dp/1098139291)
 
