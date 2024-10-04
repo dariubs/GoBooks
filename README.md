@@ -25,7 +25,7 @@
     - [2023 - Go Faster](#2023---go-faster)
     - [2023 - Shipping Go](#2023---shipping-go)
     - [2024 - Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](#2024---learning-go-an-idiomatic-approach-to-real-world-go-programming-2nd-edition)
-    - [2024 - Go Programming - From Beginner to Professional, 2nd Edition](#2024---go-programming---from-beginner-to-professional)   
+    - [2024 - Go Programming - From Beginner to Professional, 2nd Edition](#2024---go-programming---from-beginner-to-professional-2nd-edition)   
 
   - [Advanced Books](#advanced-books)
     - [2018 - Hands-On Dependency Injection in Go](#2018---hands-on-dependency-injection-in-go)
