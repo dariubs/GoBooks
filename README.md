@@ -51,6 +51,7 @@
     - [2022 - Beyond Effective Go: Part 1 - Achieving High-Performance Code](#2022---beyond-effective-go-part-1---achieving-high-performance-code)
     - [2022 - Domain-Driven Design with Golang](#2022---domain-driven-design-with-golang)
     - [2023 - Go programming language secure coding practices guide *Free*](#2023---go-programming-language-secure-coding-practices-guide-free)
+    - [2023 - Network Automation with Go](#2023---network-automation-with-go)
     - [2024 - The Power of Go: Tools](#2024---the-power-of-go-tools)
     - [2024 - Build an Orchestrator in Go](#2024---build-an-orchestrator-in-go)
     - [2024 - Explore Go: Cryptography](#2024---explore-go-cryptography)
@@ -515,6 +516,11 @@ Domain-driven design (DDD) is one of the most sought-after skills in the industr
 
 The main goal of this book is to help developers avoid common mistakes while at the same time, learning a new programming language through a "hands-on approach". This book provides a good level of detail on "how to do it securely" showing what kind of security problems could arise during development.
 
+### 2023 - [Network Automation with Go](https://www.packtpub.com/en-us/product/network-automation-with-go-9781800560925)
+
+<a href="https://www.packtpub.com/en-us/product/network-automation-with-go-9781800560925"><img src="https://content.packt.com/_/image/original/B16971/cover_image.jpg" width="120px"/></a>
+
+Go’s built-in first-class concurrency mechanisms make it an ideal choice for long-lived low-bandwidth I/O operations, which are typical requirements of network automation and network operations applications. This book provides a quick overview of Go and hands-on examples within it to help you become proficient with Go for network automation. It’s a practical guide that will teach you how to automate common network operations and build systems using Go. The first part takes you through a general overview, use cases, strengths, and inherent weaknesses of Go to prepare you for a deeper dive into network automation. You’ll explore the common network automation areas and challenges, what language features you can use in each of those areas, and the common software tools and packages. To help deepen your understanding, you’ll also work through real-world network automation problems and apply hands-on solutions to them. By the end of this book, you’ll be well-versed with Go and have a solid grasp on network automation.
 
 ### 2024 - [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools)
 
