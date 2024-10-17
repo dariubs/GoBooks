@@ -31,6 +31,7 @@
     - [2018 - Hands-On Dependency Injection in Go](#2018---hands-on-dependency-injection-in-go)
     - [2018 - Security with Go](#2018---security-with-go)
     - [2019 - A Go Developer's Notebook](#2019---a-go-developers-notebook)
+    - [2019 - Learn Data Structures and Algorithms with Golang](#2019---learn-data-structures-and-algorithms-with-golang)
     - [2020 - Black Hat Go](#2020---black-hat-go)
     - [2020 - Writing An Interpreter In Go](#2020---writing-an-interpreter-in-go)
     - [2020 - Writing A Compiler In Go](#2020---writing-a-compiler-in-go)
@@ -60,7 +61,6 @@
     - [Ultimate Go Notebook](#ultimate-go-notebook)
 
   - [Web Development](#web-development)
-    - [2019 - Learn Data Structures and Algorithms with Golang](#2019---learn-data-structures-and-algorithms-with-golang)
     - [2020 - 12 Factor Applications with Docker and Go](#2020---12-factor-applications-with-docker-and-go)
     - [2021 - Webapps in Go the anti textbook *Free*](#2021---webapps-in-go-the-anti-textbook-free)
     - [2021 - Build SaaS apps in Go](#2021---build-saas-apps-in-go)
