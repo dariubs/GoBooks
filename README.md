@@ -387,11 +387,11 @@ Network Programming with Go will help you leverage Go to write secure, readable,
 
 Write your own fast, reliable, and cross-platform command-line tools with the Go programming language. Go might be the fastest—and perhaps the most fun—way to automate tasks, analyze data, parse logs, talk to network services, or address other systems requirements. Create all kinds of command-line tools that work with files, connect to services, and manage external processes, all while using tests and benchmarks to ensure your programs are fast and correct.
 
-### 2021 - [Effective Go](https://www.manning.com/books/effective-go)
+### 2021 - [Go by Example](https://www.manning.com/books/go-by-example)
 
-<img src="https://images.manning.com/360/480/resize/book/d/af5a665-64b2-45cc-9543-d072437c27c2/Gumus-MEAP-HI.png" width="120px"/>
+<img src="https://images.manning.com/360/480/resize/book/1/4162662-915f-4052-b061-c4ff15ddf0f1/Gumus-MEAP-HI.png" width="120px"/>
 
-Effective Go is a practical guide to writing high-quality code that’s easy to test and maintain. The book is full of best practices to adopt and anti-patterns to dodge. It explores what makes Go so dramatically different from other languages, and how you can still leverage your existing skills into writing excellent Go code. Aimed at Go beginners looking to graduate to serious Go development, you’ll write and test command line applications, web API clients and servers, concurrent programs, and more.
+Go by Example is a practical guide to writing high-quality code that’s easy to test and maintain. The book is full of best practices to adopt and anti-patterns to dodge. It explores what makes Go so dramatically different from other languages, and how you can still leverage your existing skills into writing excellent Go code. Aimed at Go beginners looking to graduate to serious Go development, you’ll write and test command line applications, web API clients and servers, concurrent programs, and more.
 
 ### 2021 - [Cloud Native Go - Building Reliable Services in Unreliable Environments](https://www.amazon.com/Cloud-Native-Go-Unreliable-Environments/dp/1492076333)
 
@@ -468,7 +468,7 @@ How and when should you apply performance efficiency optimization without wastin
 
 ### 2022 - [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 
-<img src="https://images.manning.com/360/480/resize/book/d/fc0c3c2-6ae1-4722-b867-a29dc6e3ed70/Harsanyi-MEAP-HI.png" width="120px"/>
+<img src="https://images.manning.com/360/480/resize/book/9/5990f3c-19fb-4945-b024-7280e616773f/Harsanyi-HI.png" width="120px"/>
 
 100 Go Mistakes and How to Avoid Them puts a spotlight on common errors in Go code you might not even know you’re making. You’ll explore key areas of the language such as concurrency, testing, data structures, and more—and learn how to avoid and fix mistakes in your own projects.
 
@@ -532,7 +532,7 @@ Even more importantly, the book teaches you how to _think_ like a master softwar
 
 ### 2024 - [Build an Orchestrator in Go](https://www.manning.com/books/build-an-orchestrator-in-go)
 
-<img src="https://images.manning.com/360/480/resize/book/d/d1322d1-6dff-4475-9f70-fba20aef2281/Boring-OS-MEAP-HI.png" width="120px"/>
+<img src="https://images.manning.com/360/480/resize/book/2/464ad9c-7d6e-4a4d-ac4c-032adace14c1/Boring-OS-HI.png" width="120px"/>
 
 Understand Kubernetes and other orchestration systems deeply by building your own using Go and the Docker API.
 
