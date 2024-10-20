@@ -56,7 +56,7 @@
     - [2024 - The Power of Go: Tools](#2024---the-power-of-go-tools)
     - [2024 - Build an Orchestrator in Go](#2024---build-an-orchestrator-in-go)
     - [2024 - Explore Go: Cryptography](#2024---explore-go-cryptography)
-    - [2024 - Practical guide for building a blockchain from scratch in Go with gRPC](#2024---practical-guide-for-building-a-blockchain-from-scratch-in-go-with-grpc)
+    - [2024 - Practical guide for building a blockchain from scratch in Go with gRPC](#2024---practical-guide-for-building-a-blockchain-from-scratch-in-go-with-grpc-free)
     - [Go with the Domain: Building Modern Business Software in Go *Free*](#go-with-the-domain-building-modern-business-software-in-go-free)
     - [Spaceship Go *Free*](#spaceship-go-free)
     - [Ultimate Go Notebook](#ultimate-go-notebook)
