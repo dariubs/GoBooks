@@ -56,6 +56,7 @@
     - [2024 - The Power of Go: Tools](#2024---the-power-of-go-tools)
     - [2024 - Build an Orchestrator in Go](#2024---build-an-orchestrator-in-go)
     - [2024 - Explore Go: Cryptography](#2024---explore-go-cryptography)
+    - [2024 - Practical guide for building a blockchain from scratch in Go with gRPC](#2024---practical-guide-for-building-a-blockchain-from-scratch-in-go-with-grpc-free)
     - [Go with the Domain: Building Modern Business Software in Go *Free*](#go-with-the-domain-building-modern-business-software-in-go-free)
     - [Spaceship Go *Free*](#spaceship-go-free)
     - [Ultimate Go Notebook](#ultimate-go-notebook)
@@ -543,6 +544,13 @@ Orchestration systems like Kubernetes coordinate other software subsystems and s
 <a href="https://bitfieldconsulting.com/books/crypto"><img src="https://images.squarespace-cdn.com/content/5e10bdc20efb8f0d169f85f9/30992a12-3d08-4026-a1e0-19a50c9dc2ef/cover+%28no+version%29.png" width="120px"/></a>
 
 Much of the modern world is built on cryptography, and this book introduces readers to the fundamental principles of ciphers, keys, and hashing. It traces the development of increasingly sophisticated cryptographic schemes from the Caesar cipher to SHA-256 and AES-GCM, including dozens of example Go programs and coding challenges. The book concludes with a review of best practices for handling encryption and authentication in Go applications.
+
+### 2024 - [Practical guide for building a blockchain from scratch in Go with gRPC](https://github.com/volodymyrprokopyuk/go-blockchain) *Free*
+
+A foundational and practical guide for effectively learning the fundamental blockchain concepts and
+progressively building a blockchain from scratch in Go with gRPC. An interesting and challenging
+adventure that takes you from the foundational concepts and purpose through the technical design and
+implementation to the practical testing and usage of the proposed blockchain. Simple, yet non-trivial. Concise, yet detailed. Practical, yet well-grounded.
 
 ### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*
 
