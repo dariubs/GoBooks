@@ -326,7 +326,7 @@ Offensive topics include brute force, port scanning, packet injection, web scrap
 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/GoNotebook/large?1425551366"  width="120px"/>
 
-A developer's exprience in golang.
+A developer's experience in golang.
 
 ### 2020 - [Black Hat Go](https://www.nostarch.com/blackhatgo)
 
