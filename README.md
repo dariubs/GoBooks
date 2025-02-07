@@ -57,6 +57,7 @@
     - [2024 - Build an Orchestrator in Go](#2024---build-an-orchestrator-in-go)
     - [2024 - Explore Go: Cryptography](#2024---explore-go-cryptography)
     - [2024 - Practical guide for building a blockchain from scratch in Go with gRPC](#2024---practical-guide-for-building-a-blockchain-from-scratch-in-go-with-grpc-free)
+    - [2025 - Pro Go Patterns: Advanced Function Design, Concurrency Models, and Clean Code](#2025---pro-go-patterns-advanced-function-design-concurrency-models-and-clean-code)
     - [Go with the Domain: Building Modern Business Software in Go *Free*](#go-with-the-domain-building-modern-business-software-in-go-free)
     - [Spaceship Go *Free*](#spaceship-go-free)
     - [Ultimate Go Notebook](#ultimate-go-notebook)
@@ -551,6 +552,13 @@ A foundational and practical guide for effectively learning the fundamental bloc
 progressively building a blockchain from scratch in Go with gRPC. An interesting and challenging
 adventure that takes you from the foundational concepts and purpose through the technical design and
 implementation to the practical testing and usage of the proposed blockchain. Simple, yet non-trivial. Concise, yet detailed. Practical, yet well-grounded.
+
+### 2025 - [Pro Go Patterns: Advanced Function Design, Concurrency Models, and Clean Code](https://www.amazon.com/dp/B0DW9JNCVV?ref_=ast_author_mpb)
+
+<a href="https://www.amazon.com/dp/B0DW9JNCVV?ref_=ast_author_mpb"><img src="https://m.media-amazon.com/images/I/61JkL-4aXsL._SL1500_.jpg" width="120x"></a>
+
+Pro Go Patterns is your comprehensive guide to writing scalable, maintainable, and efficient Go code. Moving beyond the basics, this book dives deep into advanced patterns and practices used in real-world applications.
+
 
 ### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*
 
