@@ -20,13 +20,13 @@
     - [2023 - Learn Go With Tests *Free*](#2023---learn-go-with-tests-free)
     - [2023 - Go 101 *Free*](#2023---go-101-free)
     - [2023 - Persian - Go Programming Language *Free*](#2023---persian---go-programming-language-free)
-    - [2023 - For the Love of Go](#2023---for-the-love-of-go)
     - [2023 - gRPC Go for Professionals](#2023---grpc-go-for-professionals)
     - [2023 - Learn Go with Pocket-Sized Projects](#2023---learn-go-with-pocket-sized-projects)
     - [2023 - Go Faster](#2023---go-faster)
     - [2023 - Shipping Go](#2023---shipping-go)
     - [2024 - Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](#2024---learning-go-an-idiomatic-approach-to-real-world-go-programming-2nd-edition)
     - [2024 - Go Programming - From Beginner to Professional, 2nd Edition](#2024---go-programming---from-beginner-to-professional-2nd-edition)   
+    - [2025 - The Deeper Love of Go](#2025---the-deeper-love-of-go)
 
   - [Advanced Books](#advanced-books)
     - [2018 - Hands-On Dependency Injection in Go](#2018---hands-on-dependency-injection-in-go)
@@ -222,14 +222,6 @@ The first Persian open source book about golang deep dive.
 In this book, we discuss all deep topics related to the Go language,
 from the basics to the advanced, with the aim of increasing the Gopher community in Iran.
 
-
-### 2023 - [For the Love of Go](https://bitfieldconsulting.com/books/love)
-
-<a href="https://bitfieldconsulting.com/books/love"><img src="https://images.squarespace-cdn.com/content/5e10bdc20efb8f0d169f85f9/9766724f-8d7a-4b09-b259-a69596ba5986/cover+%28no+version%29.png?content-type=image%2Fpng" width="120px"/></a>
-
-This book introduces Go to complete beginners, as well as those with some experience programming in other languages. It explains test-driven development (TDD) in Go, how to use data types including structs, slices, and maps, and also shows how to add behaviour to objects using methods and pointers. Includes dozens of code challenges, with complete solutions and tests.
-
-
 ### 2023 - [gRPC Go for Professionals](https://www.amazon.com/gRPC-Professionals-Implement-production-grade-Microservices/dp/1837638845)
 <img src="https://m.media-amazon.com/images/I/41I8Mi8u-5L.jpg" width="120px"/>
 
@@ -307,7 +299,11 @@ What you will learn
 - Use concurrency to design efficient software
 - Use Go tools to simplify development and improve your code
 
+### 2025 - [The Deeper Love of Go](https://bitfieldconsulting.com/books/deeper)
 
+<img src="https://github.com/bitfield/love/blob/main/cover_small.png" width="120px"/>
+
+Introduces the Go programming language for complete beginners, as well as those with experience programming in other languages.
 
 ## Advanced Books
 
