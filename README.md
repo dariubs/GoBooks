@@ -717,6 +717,12 @@ Another awesome book for learning Web Development in Golang.
 ### [Golangbot.com Articles](https://golangbot.com/)
 ### [Tuxerrante repo on go exercises](https://github.com/tuxerrante/go_exercises)
 
+## Related Lists
+
+- [JavaScript Books](https://github.com/minouou/jsbooks) – A collection of books and learning resources for JavaScript  
+- [PostgreSQL Books](https://github.com/sara8086/PostgresBooks) – A curated list of books and guides for PostgreSQL  
+- [Python Books](https://github.com/lara-west/PythonBooks) – A comprehensive list of Python books and tutorials  
+
 
 Contributing
 ====
