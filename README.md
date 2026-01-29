@@ -722,9 +722,12 @@ Another awesome book for learning Web Development in Golang.
 
 ## Related Lists
 
+- [Dev Books](https://github.com/devtoolsd/DevBooks) – A collection of development and programming books  
 - [JavaScript Books](https://github.com/minouou/jsbooks) – A collection of books and learning resources for JavaScript  
 - [PostgreSQL Books](https://github.com/sara8086/PostgresBooks) – A curated list of books and guides for PostgreSQL  
-- [Python Books](https://github.com/lara-west/PythonBooks) – A comprehensive list of Python books and tutorials  
+- [Python Books](https://github.com/lara-west/PythonBooks) – A comprehensive list of Python books and tutorials
+- [AI Books](https://github.com/mahseema/aibooks) – A curated collection of books and resources on artificial intelligence  
+
 
 
 Contributing
