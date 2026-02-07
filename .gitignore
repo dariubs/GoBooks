@@ -1,0 +1,23 @@
+# Binaries
+validator/validator
+validator/validator.exe
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go
+*.test
+*.out
+go.work
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
