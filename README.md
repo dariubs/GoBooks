@@ -14,6 +14,7 @@ GoBooks is a curated collection of the best Go books for developers at every lev
 - [Resources](#resources)
 - [Contributing](#contributing)
 - [License](#license)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Go development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 
 ## Most Popular Go Books
 
