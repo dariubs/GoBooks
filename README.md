@@ -31,6 +31,17 @@ Widely considered the "Go Bible" and the definitive reference for the language, 
 
 -----
 
+### [Boring Go](https://golang.college/books/boring-go)
+
+*Last published*: **2026**
+*Authors:* **Dariush Abbasi**, **Hassan Aminfar**
+
+<a href="https://golang.college/books/boring-go"><img src="gobooks/covers/boring-go.png" width="120px"/></a>
+
+*Boring Go* is a practical guide to writing Go the way it works best in real projects—simple, explicit, and a little boring (in the good way). It champions clarity over novelty, readability over magic, and shows why boring code is often the most reliable, maintainable, and scalable choice.
+
+-----
+
 ### [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://amzn.to/4ceJWWQ)
 
 <a href="https://amzn.to/4ceJWWQ"><img src="gobooks/covers/learning-go.jpg" width="120px"/></a>
