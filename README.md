@@ -170,6 +170,18 @@ Learn Go guided by tests. Write a test, learn a new Go language feature to make 
 
 -----
 
+### [Networking with Go, Made Easy](https://sazardev.github.io/networking-with-go/)
+
+*Last published*: **2026**
+*Authors:* **Omar Flores Salazar**
+*Avaible For Free* : **[Read Online](https://sazardev.github.io/networking-with-go/)**
+
+<a href="https://sazardev.github.io/networking-with-go/"><img src="gobooks/covers/networking-with-go-made-easy.jpg" width="120px"/></a>
+
+A free, open-source book that teaches computer networking and network programming in Go, from TCP/IP fundamentals and sockets to HTTP, WebSockets, gRPC, TLS, and production APIs. The text is CC BY-NC 4.0 and every example is a complete, runnable program.
+
+-----
+
 ### [Learn Go with Pocket-Sized Projects](https://amzn.to/4cliBlM)
 
 *Last published*: **2025**
